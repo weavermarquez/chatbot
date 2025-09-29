@@ -31,7 +31,7 @@ Install Better Auth
   - =app/lib/auth.ts=
   - =app/lib/drizzle.ts=
   - =app/db/schema.ts=
-- [ ] config w drizzle :: set up with drizzle adapter & email/password config
+- [X] config w drizzle :: set up with drizzle adapter & email/password config
   https://www.better-auth.com/docs/authentication/email-password
 - create DB tables
   #+begin_example bash
@@ -39,7 +39,8 @@ Install Better Auth
 bun run s-push
 # bunx drizzle-kit push
   #+end_example
--
+*** PR 3: Handle auth routes
+https://www.better-auth.com/docs/installation#mount-handler
 
 
 * Welcome to React Router!
