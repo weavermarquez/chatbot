@@ -6,16 +6,29 @@ A clone of ChatGPT's interface.
 * History
 ** Day 1: Auth
 :LOGBOOK:
-CLOCK: [2025-09-29 Mon 11:53]
+CLOCK: [2025-09-29 Mon 11:53]--[2025-09-29 Mon 12:28] =>  0:35
 :END:
 *** Timetracking
-pom 1: Init react-router; setup drizzle/db; install better-auth
+pom 1: Init react-router; setup drizzle/db; config better-auth.
+pom 2: complete better-auth config.
 
-*** Project init
+*** PR 1: Project init
 React-router template creation
 Create Supabase DB & connect
 Modify package.json
 Install Better Auth
+
+*** PR 2: Config Better Auth
+- set up =.env= vars
+- create =utils/auth.ts=
+- [ ] config w drizzle :: set up with drizzle adapter & email/password config
+- create DB tables
+  #+begin_example bash
+bunx @better-auth/cli generate
+bunx @better-auth/cli migrate
+  #+end_example
+-
+
 
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.
