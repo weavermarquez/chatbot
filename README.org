@@ -5,28 +5,17 @@ A clone of ChatGPT's interface.
 
 * History
 ** Day 1: Auth
-For today, we have two goals:
+:LOGBOOK:
+CLOCK: [2025-09-29 Mon 11:53]
+:END:
+*** Timetracking
+pom 1: Init react-router; setup drizzle/db; install better-auth
 
-set up and understand React Router
-understand authorization and authentication and build it into our app
-By the end of the day you should have a React Router app that has a login page and a page that displays Hello, {email}! once the user logs in.
-
-This is deceptively difficult! We need to build:
-
-A login page
-A signup page
-Store user data permanently in a database with a schema
-Add logic to make sure users can't access data they're not supposed to
-Some way to identify users who make random requests to our website
-Given how hard and sensitive these problems are, we won't be buliding it from scratch. We will use an auth framework to do most of the heavy lifting for us.
-
-*** Steps
-Install React Router: bun create react-router@latest .
-Set up Drizzle and a db instance
+*** Project init
+React-router template creation
+Create Supabase DB & connect
+Modify package.json
 Install Better Auth
-Complete steps 1-6 here
-We use the drizzle adapter and email & password configuration:
-
 
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.
