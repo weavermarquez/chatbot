@@ -1,0 +1,23 @@
+#+title: Readme
+
+* Chatbot
+A clone of ChatGPT's interface.
+
+* History
+** Day 1: Auth
+:LOGBOOK:
+CLOCK: [2025-09-29 Mon 11:53]
+:END:
+*** Timetracking
+pom 1: Init react-router; setup drizzle/db; install better-auth
+
+*** Project init
+React-router template creation
+Create Supabase DB & connect
+Modify package.json
+Install Better Auth
+
+* Welcome to React Router!
+A modern, production-ready template for building full-stack React applications using React Router.
+
+[[file:app/README.md][See app/README.md]]
