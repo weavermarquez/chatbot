@@ -19,6 +19,11 @@ CLOCK: [2025-09-29 Mon 11:53]--[2025-09-29 Mon 12:28] =>  0:35
 - pom 2: finalize file structure; complete better-auth config.
 - 2 - 2:30: 1:1 w paris
 
+day 2
+- pom 3
+- [X] Completed the [[file:~/Documents/org/30-fractal/address-book/README.org][Tutorial]], reviewed my understanding with a [[file:~/Documents/org/30-fractal/convos/20250930--react-router__quiz.org][quiz]]
+
+pom 6:
 *** PR 1: Project init
 React-router template creation
 Create Supabase DB & connect
