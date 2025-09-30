@@ -8,7 +8,6 @@ export default function SignUp() {
   const [password, setPassword] = useState("");
 
   const signUp = async () => {
-    console.log("Thigy!!");
     await authClient.signUp.email(
       {
         email,
