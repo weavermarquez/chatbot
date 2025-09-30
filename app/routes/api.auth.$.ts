@@ -1,4 +1,4 @@
-import { auth } from "../lib/auth"; // Adjust the path as necessary
+import { auth } from "~/lib/auth"; // Adjust the path as necessary
 // import type { LoaderFunctionArgs, ActionFunctionArgs } from "@remix-run/node";
 import type { Route } from "./+types/api.auth.$.ts";
 

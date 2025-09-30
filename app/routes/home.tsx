@@ -1,5 +1,7 @@
 import type { Route } from "./+types/home";
 import { Welcome } from "../welcome/welcome";
+import SignUp from "./signup";
+import SignIn from "./signin";
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -9,5 +11,13 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Home() {
-  return <Welcome />;
+  return (
+    <div>
+      <p>Sign In!!</p>
+      <SignIn />
+      <br />
+      <p>Sign Up!!</p>
+      <SignUp />
+    </div>
+  );
 }
