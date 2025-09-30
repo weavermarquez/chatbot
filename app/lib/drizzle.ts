@@ -1,6 +1,6 @@
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
-import { user, session, account, verification } from "../db/auth-schema";
+import { user, session, account, verification } from "./auth-schema";
 
 const connectionString = process.env.DATABASE_URL!;
 
