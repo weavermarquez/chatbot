@@ -52,17 +52,16 @@ Time logged in the address-book repo.
 
 ** Day 3: Shadcn, AxLLM, Sidebar
 :LOGBOOK:
-CLOCK: [2025-10-01 Wed 10:38]
+CLOCK: [2025-10-01 Wed 10:38]--[2025-10-01 Wed 11:19] =>  0:25
 :END:
 - 9 - 10:00 :: chat, setup, research AxLLM.
 - 10 - 10:30 :: plan out the day
-- pom 1 :: 10:30
-*** PR 1: ShadCN
-
-*** PR 2: Sidebar
-
-
-*** PR 3: AxLLM
+- pom 1 :: Sketching.
+- pom 2 :: Sketch in Figma
+*** PR 1: Protected Landing page and Chat
+*** PR: ShadCN
+*** PR: Sidebar
+*** PR: AxLLM
 
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.
