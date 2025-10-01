@@ -1,5 +1,6 @@
 import type { Route } from "./+types/home";
 import { Welcome } from "../welcome/welcome";
+import { authClient } from "~/lib/auth-client";
 import SignUp from "./signup";
 import SignIn from "./signin";
 
@@ -11,13 +12,15 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Home() {
-  return (
-    <div>
-      <p>Sign In!!</p>
-      <SignIn />
-      <br />
-      <p>Sign Up!!</p>
-      <SignUp />
-    </div>
-  );
+  const { data, isPending, error } = authClient.useSession();
+  if (data) {
+    return <div>Hello, {data.user.email}!</div>;
+  } else {
+    return (
+      <div>
+        <SignIn />
+        <SignUp />
+      </div>
+    );
+  }
 }
