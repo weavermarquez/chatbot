@@ -5,4 +5,5 @@ export default [
   index("routes/home.tsx"),
   route("protected", "routes/protected.tsx"),
   route("api/auth/*", "routes/api.auth.$.ts"),
+  route("signout", "routes/signout.tsx"),
 ] satisfies RouteConfig;
