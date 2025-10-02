@@ -98,6 +98,24 @@ waleriepass
 *** DONE PR: Sidebar + routing
 *** DONE PR: AxLLM simple call
 
+** Day 4
+:LOGBOOK:
+CLOCK: [2025-10-02 Thu 15:58]
+CLOCK: [2025-10-02 Thu 12:40]--[2025-10-02 Thu 13:50] =>  1:10
+:END:
+- 9 - 9:30 :: get oriented and setup
+- 9:30 - 10:50 :: examine source material & explore shadcn components; chat with deepseek about story structures.
+- pom 1 10:50 - 11:30 :: talk with Paris; talk to deepseek v1
+- 11:30 - 12:40 :: lunch with russel
+- pom 2 12:40 - 1:50 :: Hardcode an example
+- pom 3 :: examine Ax docs to figure out how to make new task types / add examples.
+- 2 - 3 :: nap
+- 3 - 4 :: further clarify AxDocs; deepwiki.com is pretty great!
+
+
+
+
+
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.
 
