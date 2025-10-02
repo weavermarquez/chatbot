@@ -100,7 +100,8 @@ waleriepass
 
 ** Day 4
 :LOGBOOK:
-CLOCK: [2025-10-02 Thu 15:58]
+CLOCK: [2025-10-02 Thu 17:35]--[2025-10-02 Thu 18:35] =>  1:00
+CLOCK: [2025-10-02 Thu 15:58]--[2025-10-02 Thu 16:23] =>  0:25
 CLOCK: [2025-10-02 Thu 12:40]--[2025-10-02 Thu 13:50] =>  1:10
 :END:
 - 9 - 9:30 :: get oriented and setup
@@ -111,7 +112,8 @@ CLOCK: [2025-10-02 Thu 12:40]--[2025-10-02 Thu 13:50] =>  1:10
 - pom 3 :: examine Ax docs to figure out how to make new task types / add examples.
 - 2 - 3 :: nap
 - 3 - 4 :: further clarify AxDocs; deepwiki.com is pretty great!
-
+- pom 4-6 4 - 5:30 :: Import data of Quest story structures, run some tests.
+- pom 6-7 5:30 - 6:30 :: Research DSPy /Ax prompt optimizer =GEPA=, begin preparing augmented data structures and optimizer run
 
 
 
