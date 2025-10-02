@@ -64,9 +64,29 @@ CLOCK: [2025-10-01 Wed 10:38]--[2025-10-01 Wed 11:19] =>  0:25
 :END:
 - 9 - 10:00 :: chat, setup, research AxLLM.
 - 10 - 10:30 :: plan out the day
-- pom 1 :: Sketching.
-- pom 2 :: Sketch in Figma
+- pom 1 :: Sketching on paper.
+- pom 2 :: more sketching on routes
+- 11:20 - 12:20 :: start sketching in figma the page structure; inspiration hits!
+- 12:20 - 1 :: send off email to leon; lunch
+- 1 - 2 :: mark lecture on internal story and narrative
+- 2 - 2:50 :: brainstorm story generation logic; talk about
+- 2:50 - 3:30 :: i forget
+- 3:30 - 3:50 :: install shadcn and look at docs
+- 3:50 - 4:20 :: lay out the plan for coachbot
+- 4:20 - 4:40 :: take some time away to try and focus.
+- 4:40 - 5:40 :: experiment with Sora 2 and test video generation with story structure.
+- 5:40 - 6:50 :: grab food & eat
+- 6:50 - 7:30 :: chat with russel, update time log
+- pom 3
+
 *** PR 1: Protected Landing page and Chat
+Login details
+
+walerie
+walerie@example.com
+waleriepass
+
+
 *** PR: ShadCN
 *** PR: Sidebar
 *** PR: AxLLM
