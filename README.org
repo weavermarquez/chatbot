@@ -46,7 +46,30 @@ bun run s-push
   #+end_example
 *** PR 3: Handle auth routes
 https://www.better-auth.com/docs/installation#mount-handler
+** Day 2: Set up BetterAuth
+:LOGBOOK:
+CLOCK: [2025-09-30 Tue 17:50]--[2025-09-30 Tue 18:56] =>  1:06
+:END:
+I'll steal the sidebar :)
+Time logged in the address-book repo.
 
+- poms 1 - 5 :: React Router Tutorial, self-quizzing
+- 3:50 - 4:30 :: look into merging tutorial repo w/ this one
+- 4:30 - 5:40 :: relax?
+- poms 6-7, 5:50 - 6:50 :: complete betterauth setup, push PR
+
+** Day 3: Shadcn, AxLLM, Sidebar
+:LOGBOOK:
+CLOCK: [2025-10-01 Wed 10:38]--[2025-10-01 Wed 11:19] =>  0:25
+:END:
+- 9 - 10:00 :: chat, setup, research AxLLM.
+- 10 - 10:30 :: plan out the day
+- pom 1 :: Sketching.
+- pom 2 :: Sketch in Figma
+*** PR 1: Protected Landing page and Chat
+*** PR: ShadCN
+*** PR: Sidebar
+*** PR: AxLLM
 
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.
