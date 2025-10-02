@@ -60,6 +60,7 @@ Time logged in the address-book repo.
 
 ** Day 3: Shadcn, AxLLM, Sidebar
 :LOGBOOK:
+CLOCK: [2025-10-01 Wed 23:50]--[2025-10-02 Thu 00:33] =>  0:43
 CLOCK: [2025-10-01 Wed 23:00]--[2025-10-01 Wed 23:50] =>  0:50
 CLOCK: [2025-10-01 Wed 22:30]--[2025-10-01 Wed 23:00] =>  0:30
 CLOCK: [2025-10-01 Wed 10:38]--[2025-10-01 Wed 11:19] =>  0:25
@@ -82,7 +83,8 @@ CLOCK: [2025-10-01 Wed 10:38]--[2025-10-01 Wed 11:19] =>  0:25
 - 7:30 - 9:40 :: uhhh. hm. thinking about data structures and workflows. probably ineffective.
 - 9:40 - 10:30 :: reorienting myself again. attempt to do the goddamn thing. I need to make a new page and a route.
 - pom 3 10:30  - 11:00 :: implement signout
-- pom 3 11 - 11:50 :: install shadcn components and implement narrative routes.
+- pom 3 11 - 11:50 :: install shadcn components and implement narrative routes inside of a sidebar
+- pom 4 11:50 - 12:30 :: Install AxLLM and add a model response to home page
 
 *** PR 1: Protected Landing page and Chat
 Login details
@@ -92,9 +94,9 @@ walerie@example.com
 waleriepass
 
 
-*** PR: ShadCN
-*** PR: Sidebar
-*** PR: AxLLM
+*** DONE PR: ShadCN install
+*** DONE PR: Sidebar + routing
+*** DONE PR: AxLLM simple call
 
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.

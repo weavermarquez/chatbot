@@ -12,6 +12,7 @@
     "s-test": "bunx tsx app/index.ts"
   },
   "dependencies": {
+    "@ax-llm/ax": "^14.0.28",
     "@radix-ui/react-slot": "^1.2.3",
     "@react-router/node": "^7.9.2",
     "@react-router/serve": "^7.9.2",
