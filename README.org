@@ -46,9 +46,17 @@ bun run s-push
   #+end_example
 *** PR 3: Handle auth routes
 https://www.better-auth.com/docs/installation#mount-handler
-** Day 2: React Router Tutorial
+** Day 2: Set up BetterAuth
+:LOGBOOK:
+CLOCK: [2025-09-30 Tue 17:50]--[2025-09-30 Tue 18:56] =>  1:06
+:END:
 I'll steal the sidebar :)
 Time logged in the address-book repo.
+
+- poms 1 - 5 :: React Router Tutorial, self-quizzing
+- 3:50 - 4:30 :: look into merging tutorial repo w/ this one
+- 4:30 - 5:40 :: relax?
+- poms 6-7, 5:50 - 6:50 :: complete betterauth setup, push PR
 
 ** Day 3: Shadcn, AxLLM, Sidebar
 :LOGBOOK:
