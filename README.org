@@ -156,7 +156,8 @@ Once we have that down I want for users to be able to *play with* the expansion 
 
 ** Day 5
 :LOGBOOK:
-CLOCK: [2025-10-03 Fri 10:45]--[2025-10-03 Fri 11:23] =>  0:38
+CLOCK: [2025-10-03 Fri 12:03]
+CLOCK: [2025-10-03 Fri 10:45]--[2025-10-03 Fri 11:55] =>  1:10
 CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
 :END:
 
@@ -165,7 +166,8 @@ CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
 - 9:30 - 10:00 :: get oriented, have a look thru https://deepwiki.com/remix-run/react-router/
 - pom 1 :: set up repo, plan out today's PRs
 - 10:30 - 10:45 :: talk w paris
-- pom 2 :: Reconsider terminology, rename. Start on sidebar navigation, display input form.
+- pom 2 :: Reconsider terminology, rename, finalize route layout. I feel like this is bikeshedding but I also do need the clarity.
+- pom 3 :: Start on sidebar navigation, display input form.
 
 *** Finalize Routes
 
