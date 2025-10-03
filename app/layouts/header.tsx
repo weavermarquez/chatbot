@@ -7,9 +7,19 @@ import {
   useSubmit,
   redirect,
 } from "react-router";
+
 import { useState, useEffect } from "react";
 import { auth } from "~/lib/auth";
 import type { Route } from "./+types/header";
+
+import {
+  Sheet,
+  SheetContent,
+  SheetDescription,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from "~/components/ui/sheet";
 
 type Narrative = string;
 
@@ -35,64 +45,25 @@ export default function HeaderLayout({ loaderData }: Route.ComponentProps) {
   const { narratives, q } = loaderData;
   const navigation = useNavigation();
   const submit = useSubmit();
-  const searching =
-    navigation.location &&
-    new URLSearchParams(navigation.location.search).has("q");
-
-  const [query, setQuery] = useState(q || "");
-
-  useEffect(() => {
-    const searchField = document.getElementById("q");
-    if (searchField instanceof HTMLInputElement) {
-      searchField.value = q || "";
-    }
-  }, [q]);
 
   return (
     <>
       <div id="header">
         <h1>
-          <h2>Welcome to Beatmap</h2>
+          <h2>HEADER</h2>
         </h1>
-        <div>
-          <Form
-            id="search-form"
-            onChange={(event) => {
-              const isFirstSearch = q === null;
-              console.log("isfirstsearch", isFirstSearch, "q:", q);
-              submit(event.currentTarget, {
-                replace: !isFirstSearch,
-              });
-            }}
-            role="search"
-          >
-            <input
-              aria-label="Search narratives"
-              defaultValue={q || ""}
-              id="q"
-              name="q"
-              placeholder="Search"
-              type="search"
-              onChange={(event) => setQuery(event.currentTarget.value)}
-              className={searching ? "loading" : ""}
-            />
-            <div aria-hidden hidden={!searching} id="search-spinner" />
-          </Form>
-          <Form method="post">
-            <button type="submit">New</button>
-          </Form>
-        </div>
-        <nav>
-          {
-            // List out <ul>Narrative Item possibly with NavLink</ul>
-            <p>
-              <i>No narratives</i>
-            </p>
-          }
-        </nav>
-      </div>
-      <div id="detail">
-        <Outlet />
+        <Sheet>
+          <SheetTrigger>Open</SheetTrigger>
+          <SheetContent>
+            <SheetHeader>
+              <SheetTitle>Are you absolutely sure?</SheetTitle>
+              <SheetDescription>
+                This action cannot be undone. This will permanently delete your
+                account and remove your data from our servers.
+              </SheetDescription>
+            </SheetHeader>
+          </SheetContent>
+        </Sheet>
       </div>
     </>
   );
