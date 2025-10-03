@@ -3,8 +3,13 @@
   "title": "The Washerman and His Ass (Trickster Structure)",
   "source": null,
   "structure": "trickster",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "They get swindled by their desire for a child",
+  "characters": [
+    {
+      "name": "An elderly couple",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -110,8 +115,13 @@
   "title": "Hsün Chü-po Visits His Friend (Trickster Variation Structure)",
   "source": null,
   "structure": "trickster_variation",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "feels the rules are rigged; wants to flip the script",
+  "characters": [
+    {
+      "name": "Hsün Chü-po",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -181,8 +191,13 @@
   "title": "The Story of Cornix (Transformation Structure)",
   "source": null,
   "structure": "transformation",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Creeped on by some jerk",
+  "characters": [
+    {
+      "name": "cornix",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -228,8 +243,13 @@
   "title": "Lazy Jack (Trickster Structure)",
   "source": null,
   "structure": "trickster",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Jack is way too lazy. he never quite “gets it.”",
+  "characters": [
+    {
+      "name": "Lazy Jack",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -299,8 +319,13 @@
   "title": "The Three Little Pigs (Quest Structure)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "wants something they don’t have and has to go after it",
+  "characters": [
+    {
+      "name": "Three little pigs",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -371,7 +396,12 @@
   "source": null,
   "structure": "quest",
   "central_imbalance": "",
-  "characters": [],
+  "characters": [
+    {
+      "name": "Nasr-el-Din",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -441,8 +471,13 @@
   "title": "The Wolf in The Three Wee Pigs (Trickster Structure)",
   "source": null,
   "structure": "trickster",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "The wolf is always hungry",
+  "characters": [
+    {
+      "name": "The Wolf",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -512,8 +547,13 @@
   "title": "Sleeping Beauty (Death and Rebirth Structure)",
   "source": null,
   "structure": "death_rebirth",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Aurora was born from a wish.",
+  "characters": [
+    {
+      "name": "aurora",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -583,8 +623,13 @@
   "title": "Cinderella (Rags to Riches Structure)",
   "source": null,
   "structure": "rags_to_riches",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "overlooked and sidelined; wants a real shot",
+  "characters": [
+    {
+      "name": "cinderella",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -660,8 +705,13 @@
   "title": "The Story of Medusa (Transformation Structure)",
   "source": null,
   "structure": "transformation",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "She was too beautiful",
+  "characters": [
+    {
+      "name": "Medusa",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -707,8 +757,13 @@
   "title": "When Goha Lost His Donkey (Trickster Structure)",
   "source": null,
   "structure": "trickster",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Just vibing",
+  "characters": [
+    {
+      "name": "Goha",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -778,8 +833,13 @@
   "title": "Snow White (Death and Rebirth Structure)",
   "source": null,
   "structure": "death_rebirth",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "She was granted her mom's dying wish.",
+  "characters": [
+    {
+      "name": "snow white",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -849,8 +909,13 @@
   "title": "Neptune's Quest in The Story of Cornix (Quest Structure)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "neptune is always horny",
+  "characters": [
+    {
+      "name": "neptune",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -920,8 +985,13 @@
   "title": "The Academic Essay (Quest Structure)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "the student/writer has a question to tackle and prove",
+  "characters": [
+    {
+      "name": "the student writer",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -991,8 +1061,13 @@
   "title": "The Gigantic Turnip (Quest Structure)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "he's got a turnip that's way too big",
+  "characters": [
+    {
+      "name": "Gigantic",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1062,8 +1137,13 @@
   "title": "The Story of Narcissus (Transformation Structure)",
   "source": null,
   "structure": "transformation",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "narcissus only loves himself",
+  "characters": [
+    {
+      "name": "Narcissu",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1109,8 +1189,13 @@
   "title": "Inverse Rags to Riches / Rich to Rags (Death and Rebirth Structure)",
   "source": null,
   "structure": "death_rebirth",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "the billionaire thinks money = happiness",
+  "characters": [
+    {
+      "name": "A billionaire",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1180,8 +1265,13 @@
   "title": "The Day the Lights Went Out (Tragic Death and Rebirth Structure)",
   "source": null,
   "structure": "death_rebirth",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "jean is fragile, her health slipping away, can’t hold onto life",
+  "characters": [
+    {
+      "name": "Jean",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1251,8 +1341,13 @@
   "title": "Paul’s Journey (Tragic Quest Structure)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "paul wants meaning but keeps colliding with fate and failure",
+  "characters": [
+    {
+      "name": "paul",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1322,8 +1417,13 @@
   "title": "Voyage and Return Structure (Sinbad the Sailor)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "needs to get out there and come back with something to show for it",
+  "characters": [
+    {
+      "name": "Sinbad",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1405,8 +1505,13 @@
   "title": "The Moon and His Two Wives (Perpetual Motion Structure)",
   "source": null,
   "structure": "perpetual_motion",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Why does the moon wax and wane?",
+  "characters": [
+    {
+      "name": "Hi",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1458,8 +1563,13 @@
   "title": "The Story of Arachne (Transformation Structure)",
   "source": null,
   "structure": "transformation",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Arachne's way too good at weaving.",
+  "characters": [
+    {
+      "name": "Arachne",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1501,53 +1611,17 @@
   "notes": null
 }
 {
-  "id": "old-english-riddle-riddle-structure-with-quest-outcome",
-  "title": "Old English Riddle (Riddle Structure with Quest Outcome)",
-  "source": null,
-  "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
-  "beats": [
-    {
-      "idx": 1,
-      "symbol": "r",
-      "label": "opening",
-      "summary": "[Implied]"
-    },
-    {
-      "idx": 2,
-      "symbol": "m",
-      "label": "substance alluded to but not stated",
-      "summary": "I am …"
-    },
-    {
-      "idx": 3,
-      "symbol": "t",
-      "label": "attributes listed, creating a cognitive dissonance",
-      "summary": "The attributes are listed (e.g., sun-struck, fire-touched, praised by people), creating the paradoxical confusion."
-    },
-    {
-      "idx": 4,
-      "symbol": "m",
-      "label": "riddle solved by resolving the cognitive dissonance",
-      "summary": "The object is identified (e.g., a cup, wine, or chalice)."
-    },
-    {
-      "idx": 5,
-      "symbol": "r",
-      "label": "closing",
-      "summary": "[Implied]"
-    }
-  ],
-  "notes": null
-}
-{
   "id": "rai-sanyo-poem-ki-sho-ten-ketsu-structure",
   "title": "Rai San’yō Poem (Ki-Shō-Ten-Ketsu Structure)",
   "source": null,
-  "structure": "ki-shō-ten-ketsu",
-  "central_imbalance": "",
-  "characters": [],
+  "structure": "kishotenketsu",
+  "central_imbalance": "People survive differently.",
+  "characters": [
+    {
+      "name": "Some guy",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1593,8 +1667,13 @@
   "title": "The Annunciation to Mary (Call and Response Variation 2)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Mary is in doubt of her faith.",
+  "characters": [
+    {
+      "name": "Mary",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1676,8 +1755,13 @@
   "title": "The Wife's Capture in *Go I Know Not Whither* (Call and Response Variation 1)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "A hunter injures a magical bird.",
+  "characters": [
+    {
+      "name": "Fedot",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1723,8 +1807,13 @@
   "title": "The Ghazal Poetic Form (Perpetual Motion Structure)",
   "source": null,
   "structure": "perpetual_motion",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "Maintaining a balance of rhythm",
+  "characters": [
+    {
+      "name": "the poet",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1775,9 +1864,14 @@
   "id": "the-koan-structure-the-sound-of-one-hand-clapping",
   "title": "The Koan Structure (The Sound of One Hand Clapping)",
   "source": null,
-  "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "structure": "koan",
+  "central_imbalance": "What is wisdom?",
+  "characters": [
+    {
+      "name": "Buddha",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1817,8 +1911,13 @@
   "title": "Beowulf: Heorot and Grendel's Emergence (Call and Response Variation 1)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "The vibes are too good.",
+  "characters": [
+    {
+      "name": "Beowulf",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1876,8 +1975,13 @@
   "title": "Grendel’s Initial Attack (Revelation Structure)",
   "source": null,
   "structure": "revelation",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "The vibes are too good.",
+  "characters": [
+    {
+      "name": "Grendel",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1904,9 +2008,14 @@
   "id": "huainanzi-linchpin-analogy-ki-sho-ten-ketsu-structure",
   "title": "Huainanzi Linchpin Analogy (Ki-Shō-Ten-Ketsu Structure)",
   "source": null,
-  "structure": "ki-shō-ten-ketsu",
-  "central_imbalance": "",
-  "characters": [],
+  "structure": "kishotenketsu",
+  "central_imbalance": "Does the inner match the outer?",
+  "characters": [
+    {
+      "name": "Huainanzi",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -1952,8 +2061,13 @@
   "title": "African Dyola Story (Dilemma Structure)",
   "source": null,
   "structure": "dilemma",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "They suddenly get thirsty",
+  "characters": [
+    {
+      "name": "Hunters",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,
@@ -2035,8 +2149,13 @@
   "title": "Orpheus and Eurydice (Quest Structure)",
   "source": null,
   "structure": "quest",
-  "central_imbalance": "",
-  "characters": [],
+  "central_imbalance": "He is suddenly left alone",
+  "characters": [
+    {
+      "name": "Orpheus",
+      "role": "protagonist"
+    }
+  ],
   "beats": [
     {
       "idx": 1,

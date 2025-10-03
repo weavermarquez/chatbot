@@ -39,6 +39,7 @@ export type StoryRecord = {
     | "revelation"
     | "riddle"
     | "kishotenketsu"
+    | "ki-sho-ten-ketsu"
     | "call_response";
 };
 
