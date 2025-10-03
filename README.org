@@ -100,6 +100,7 @@ waleriepass
 
 ** Day 4
 :LOGBOOK:
+CLOCK: [2025-10-02 Thu 20:12]--[2025-10-02 Thu 22:32] =>  2:20
 CLOCK: [2025-10-02 Thu 17:35]--[2025-10-02 Thu 18:35] =>  1:00
 CLOCK: [2025-10-02 Thu 15:58]--[2025-10-02 Thu 16:23] =>  0:25
 CLOCK: [2025-10-02 Thu 12:40]--[2025-10-02 Thu 13:50] =>  1:10
@@ -114,7 +115,15 @@ CLOCK: [2025-10-02 Thu 12:40]--[2025-10-02 Thu 13:50] =>  1:10
 - 3 - 4 :: further clarify AxDocs; deepwiki.com is pretty great!
 - pom 4-6 4 - 5:30 :: Import data of Quest story structures, run some tests.
 - pom 6-7 5:30 - 6:30 :: Research DSPy /Ax prompt optimizer =GEPA=, begin preparing augmented data structures and optimizer run
+- 6:30 - 7 :: laze around
+- 7 - 8 :: Manual data preparation
+- pom 8-11 8:10 - 10:30 :: Clean and prepare 30 examples!!
 
+*** With 5 few-shot in-prompt examples
+I am very much unsatisfied with the creative writing quality of this system. There are a number of approaches I think will help.
+- GEPA optimizer to add story and structure understanding
+- Preparation of more data samples
+- Incorporation of roleplay prompts
 
 
 
