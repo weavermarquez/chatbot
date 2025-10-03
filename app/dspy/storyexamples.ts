@@ -1,4 +1,9 @@
-import type { StoryStructure, Symbol, Beat, CharacterJourney } from "~/story";
+import type {
+  StoryStructure,
+  Symbol,
+  Beat,
+  CharacterJourney,
+} from "~/dspy/story";
 
 // Un-annotated Test Cases of bare-bones stories.
 export const storyStrings: string[] = [
