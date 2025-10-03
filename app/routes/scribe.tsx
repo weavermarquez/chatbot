@@ -11,6 +11,7 @@ import {
 } from "~/components/ui/table";
 
 import { List2 } from "~/components/ui/list-2";
+import "~/laws-of-form.css";
 
 // import { getScribe, updateScribe } from "../data";
 // import type { ScribeRecord } from "../data";
