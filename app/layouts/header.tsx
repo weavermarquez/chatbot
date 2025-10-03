@@ -21,7 +21,7 @@ export async function loader({ request }: Route.LoaderArgs) {
   console.log("Checking if user is logged in");
   const session = await auth.api.getSession({ headers: request.headers });
   if (!session?.user) {
-    throw redirect("/signin");
+    throw redirect("/login");
   }
 
   const url = new URL(request.url);
@@ -52,8 +52,7 @@ export default function SidebarLayout({ loaderData }: Route.ComponentProps) {
     <>
       <div id="sidebar">
         <h1>
-          <h2>Hello, {JSON.stringify(loaderData.user.email)}!</h2>
-          <Link to="about">React Router Narratives</Link>
+          <h2>Welcome to Beatmap</h2>
         </h1>
         <div>
           <Form
