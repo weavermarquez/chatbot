@@ -2,14 +2,16 @@ import { type RouteConfig } from "@react-router/dev/routes";
 import { index, layout, route } from "@react-router/dev/routes";
 
 export default [
-  index("routes/home.tsx"),
-  route("protected", "routes/protected.tsx"),
-  route("api/auth/*", "routes/api.auth.$.ts"),
-  route("signout", "routes/signout.tsx"),
-  layout("layouts/sidebar.tsx", [
-    route("narrative", "routes/narrative_home.tsx"),
-    route("narrative/:narrativeId", "routes/narrative.tsx"),
-    // route("narrative/:narrativeId/edit", "routes/edit-narrative.tsx"),
-    // route("narrative/:narrativeId/destroy", "routes/destroy-narrative.tsx"),
+  layout("layouts/header.tsx", [
+    index("routes/home.tsx"),
+    route("api/auth/*", "routes/api.auth.$.ts"),
+    route("signin", "routes/signin.tsx"),
+    route("logout", "routes/logout.tsx"),
+    layout("layouts/scribe_sidebar.tsx", [
+      route("scribe", "routes/scribe_home.tsx"), // /scribe redirects to /scribe/new
+      route("scribe/new", "routes/create_scribe.tsx"), // /scribe/new
+      route("scribe/:id", "routes/scribe.tsx"), // Main Workspace
+      route("scribe/:id/v/:version", "routes/update_scribe.tsx"), //
+    ]),
   ]),
 ] satisfies RouteConfig;

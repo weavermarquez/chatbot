@@ -156,17 +156,46 @@ Once we have that down I want for users to be able to *play with* the expansion 
 
 ** Day 5
 :LOGBOOK:
+CLOCK: [2025-10-03 Fri 12:03]--[2025-10-03 Fri 12:28] =>  0:25
+CLOCK: [2025-10-03 Fri 10:45]--[2025-10-03 Fri 11:55] =>  1:10
 CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
 :END:
 
 *** Timetracking
 - 9:30 :: arrive late >_>
 - 9:30 - 10:00 :: get oriented, have a look thru https://deepwiki.com/remix-run/react-router/
-- pom 1 :: set up repo, plan out today's work
+- pom 1 :: set up repo, plan out today's PRs
+- 10:30 - 10:45 :: talk w paris
+- pom 2 :: Reconsider terminology, rename, finalize route layout. I feel like this is bikeshedding but I also do need the clarity.
+- pom 3 :: set up routes; fix some redirect.
+- 12:30 - 1:20 :: lunch
+- pom 4 ::  Start on sidebar navigation, display input form.
+
+*** DONE Finalize Routes
+
+#+begin_example
+/ - public landing page
+/login - auth
+/signup - auth -> redirects to /login on success
+/logout - clears session -> redirects to /
+
+/scribe - dashboard (shows list of existing projects + "new" button)
+/scribe/new - creation form -> redirects to /scribe/:id on submit
+/scribe/:id - main workspace (shows bare_bones_sequence table + sidebar)
+/scribe/:id/v/:version - version history view
+
+/scribe/:id/patterning - workflow b (expansion/contraction)
+/scribe/:id/narrative - workflow c (video script generation)
+#+end_example
+
+the key insight is treating =:id= as the core project identifier and hanging everything else off it. no more double-param confusion.
+
+*** Basic Elements to every major page
 
 *** PR: Display Table Component
 
 *** PR: Sidebar Navigation?
+And display an input form.
 
 *** PR: Interactivity with Sidebar
 

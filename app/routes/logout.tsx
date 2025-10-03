@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router";
 import { authClient } from "~/lib/auth-client";
 
-export default function SignOut() {
+export default function LogOut() {
   const navigate = useNavigate();
 
   async function handleClick() {
@@ -14,7 +14,7 @@ export default function SignOut() {
 
   return (
     <button type="button" onClick={handleClick}>
-      Sign Out
+      Log Out
     </button>
   );
 }
