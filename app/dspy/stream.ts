@@ -2,9 +2,14 @@ import { ai, ax, s, agent } from "@ax-llm/ax";
 import { axGlobals } from "@ax-llm/ax";
 import type { AxAI, AxGen, AxSignature, AxAgent, AxFunction } from "@ax-llm/ax";
 
-import type { StoryStructure, Symbol, Beat, CharacterJourney } from "~/story";
-import { symbolRules } from "~/story";
-import { testCases } from "~/storyexamples";
+import type {
+  StoryStructure,
+  Symbol,
+  Beat,
+  CharacterJourney,
+} from "~/dspy/story";
+import { symbolRules } from "~/dspy/story";
+import { testCases } from "~/dspy/storyexamples";
 
 const llm = ai({
   name: "openai",

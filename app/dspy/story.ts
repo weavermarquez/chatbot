@@ -1,19 +1,61 @@
-export type StoryStructure = "Quest" | "Transformation"; // many more
-export type Symbol = "r" | "m" | "<" | ">" | "n" | "t";
-export type Beat = {
-  step: number;
-  symbol: Symbol;
-  structure: string;
-  outline: string;
-  note?: string;
+/*
+ // StoryRecord
+ id:string
+ title:string
+ source?:string
+ central_imbalance:string
+ beats:json[]
+ notes:string
+ characters:json[]
+ structure:class "quest, transformation, trickster, trickster_variation, death_rebirth, voyage_return, perpetual_motion, revelation, riddle, kishotenketsu, call_response"
+ */
+
+export type StoryRecord = {
+  id: string;
+  title: string;
+  source?: string;
+  central_imbalance: string;
+  beats: Beat[];
+  notes: string;
+
+  characters: {
+    name: string;
+    role?:
+      | "protagonist"
+      | "antagonist"
+      | "helper"
+      | "hindrance"
+      | "narrator"
+      | string;
+  }[];
+  structure:
+    | "quest"
+    | "transformation"
+    | "trickster"
+    | "trickster_variation"
+    | "death_rebirth"
+    | "voyage_return"
+    | "perpetual_motion"
+    | "revelation"
+    | "riddle"
+    | "kishotenketsu"
+    | "ki-sho-ten-ketsu"
+    | "call_response";
 };
 
-export type CharacterJourney = {
-  storyTitle: string;
-  characterName: string;
-  perspective?: string;
-  storyStructure: StoryStructure;
-  storyBeats: Array<Beat>;
+/*
+ * // BEAT
+ * idx:number
+ * symbol:class "r , m , ↽ , ⇀ , ⇌ , u , t"
+ * label: string
+ * summary: string
+ */
+
+export type Beat = {
+  idx: number;
+  symbol: "r" | "m" | "↽" | "⇀" | "⇌" | "u" | "t"; // ascii fallback: 'R','M','L','R','X','U','T'
+  label: string;
+  summary: string;
 };
 
 export type SymbolRule = {
@@ -81,27 +123,3 @@ either singly ( ⇌ ), not ( ⇌ ⇌ ), or as a pair framing a backward step ( �
 ];
 
 console.log(JSON.stringify(symbolRules));
-
-/*
- * Ax Types
- *
- * // BEAT
- * step:number
- * symbol:class "r, m, <, >, u, t"
- * structure: string
- * outline:string
- * note?:string
- *
- * // CHARACTER
- * character:string
- * storyStructure:class "quest, transformation"
- * beats:json[]
- *
- *
- *
- * reasoning!:string
- *
- *
- * // CONSTRAINTS
- *
- */
