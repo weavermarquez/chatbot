@@ -19,7 +19,7 @@ export default function SignIn() {
           // show loading state
         },
         onSuccess: (ctx) => {
-          navigate("/boards", { replace: true });
+          navigate("/scribe", { replace: true });
         },
         onError: (ctx) => {
           alert(ctx.error);
