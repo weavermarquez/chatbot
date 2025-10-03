@@ -156,7 +156,7 @@ Once we have that down I want for users to be able to *play with* the expansion 
 
 ** Day 5
 :LOGBOOK:
-CLOCK: [2025-10-03 Fri 12:03]
+CLOCK: [2025-10-03 Fri 12:03]--[2025-10-03 Fri 12:28] =>  0:25
 CLOCK: [2025-10-03 Fri 10:45]--[2025-10-03 Fri 11:55] =>  1:10
 CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
 :END:
@@ -167,7 +167,9 @@ CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
 - pom 1 :: set up repo, plan out today's PRs
 - 10:30 - 10:45 :: talk w paris
 - pom 2 :: Reconsider terminology, rename, finalize route layout. I feel like this is bikeshedding but I also do need the clarity.
-- pom 3 :: Start on sidebar navigation, display input form.
+- pom 3 :: set up routes; fix some redirect.
+- 12:30 - 1:20 :: lunch
+- pom 4 ::  Start on sidebar navigation, display input form.
 
 *** DONE Finalize Routes
 

@@ -9,7 +9,7 @@ import {
 } from "react-router";
 import { useState, useEffect } from "react";
 import { auth } from "~/lib/auth";
-import type { Route } from "./+types/sidebar";
+import type { Route } from "./+types/header";
 
 type Narrative = string;
 
@@ -31,7 +31,7 @@ export async function loader({ request }: Route.LoaderArgs) {
   return { narratives, user: session.user, q };
 }
 
-export default function SidebarLayout({ loaderData }: Route.ComponentProps) {
+export default function HeaderLayout({ loaderData }: Route.ComponentProps) {
   const { narratives, q } = loaderData;
   const navigation = useNavigation();
   const submit = useSubmit();
@@ -50,7 +50,7 @@ export default function SidebarLayout({ loaderData }: Route.ComponentProps) {
 
   return (
     <>
-      <div id="sidebar">
+      <div id="header">
         <h1>
           <h2>Welcome to Beatmap</h2>
         </h1>
