@@ -1,0 +1,1111 @@
+* 1. The Washerman and His Ass (Trickster Structure)
+
+This example features a detailed narrative outline and a step-by-step analysis of the couple's story line, revealing a nested Trickster structure,.
+
+** Full Story Text / Narrative Outline (Input)
+
+This narrative outline focuses on the core story events:
+
+A childless washerman and his wife, believing a **mullah** (a religious teacher) can literally transform donkeys into human beings, pay him to transform their donkey into a son they can pass their savings to, who will perform the last rites for them when they die. The mullah agrees after negotiating a handsome fee, telling them to return in a year and a day. Knowing they will return, he prepares a ruse to get revenge on a rival—a **qazi** (a judge) in a nearby town. When the couple arrives, the mullah tells them they just missed seeing their son take up the position of qazi, and that they should take his feed bag and halter and show them to him. He assures them the qazi will recognise these items and be reunited with them as their son. The qazi, taken aback by their public behaviour, receives them in private and understands they have been duped. Rather than burst their bubble, he plays along with the ruse, only asking them to keep his story secret. In exchange, he promises to fulfil his duties towards them as a son and perform the last rites for them. As a result, they leave him all their wealth. The qazi benefits, and the mullah loses out.
+
+** Structured Analysis: Couple’s Story Line (Output)
+
+This analysis follows the couple's story line, identifying the Trickster structure-:
+
+| Steps | Symbols | Structure                                                              | Outline of content                                                                                                                                                                                |
+| :---: | :---:   | :---                                                                   | :---                                                                                                                                                                                              |
+|     1 | `r`     | Opening                                                                | Once upon a time …                                                                                                                                                                                |
+|     2 | `m`     | Initial situation                                                      | … an elderly couple with no children of their own overhear a mullah say he can change asses into men.                                                                                             |
+|     3 | `↽`    | Problem                                                                | The couple have no children to pass on their savings to who would perform the last rites for them …                                                                                               |
+|     4 | `⇀`    | Journey                                                                | … so, they decide to ask the mullah to change their ass into a boy they can raise as their son.                                                                                                   |
+|     5 | `↽`    | Meeting between …                                                      | They meet the mullah and ask for his help.                                                                                                                                                        |
+|     6 | `⇌`    | … the two characters (one is tricked or duped by the other)            | The mullah agrees, takes their money, and tricks them with a story about the ass being changed into a qazi, and tells them to go and see him in a year and a day.                                 |
+|     7 | `↽`    | Meeting between …                                                      | The couple meet the qazi in the marketplace (presenting the ass’s halter and nosebag to him, and asking him to be their son).                                                                     |
+|     8 | `⇌`    | … the two characters (the previously duped character tricks the other) | The qazi calmly accepts the halter and nosebag; he asks to speak to them in private. (Transformational Twist/Comic step).                                                                         |
+|     9 | `↽`    | Meeting between …                                                      | The qazi sees the situation as curious rather than humiliating.                                                                                                                                   |
+|    10 | `⇀`    | Journey                                                                | He makes a plan which involves telling them that he was their ass, but that he's reformed now.                                                                                                    |
+|    11 | `↽`    | Meeting between …                                                      | He tells them that he will perform the last rites for them if they will keep his story a secret.                                                                                                  |
+|    12 | `⇌`    | … the two characters (one is tricked or duped by the other)            | The couple agree to the qazi’s conditions, and give him all their wealth. (Transformational Twist/Comic step).                                                                                    |
+|    13 | `↽`    | Meeting between …                                                      | Time passes (the couple die).                                                                                                                                                                     |
+|    14 | `⇀`    | … friend/helper                                                        | The qazi performs the last rites for them.                                                                                                                                                        |
+|    15 | `m`     | Final situation (outcome/resolution)                                   | … which ends in the qazi’s reputation remaining unscathed, with them being buried respectfully when they die, with the qazi inheriting their wealth, and with the mullah being very disappointed. |
+|    16 | `r`     | Closing                                                                | [Implied]                                                                                                                                                                                         |
+
+* ## 2. Hsün Chü-po Visits His Friend (Trickster Variation Structure)
+
+This example provides the full text of a short anecdote and its structured analysis as a Trickster Variation story, distinguishing the events in the story from the structural interpretation,.
+
+** ### Full Story Text (Input)
+
+The story, as translated by John Kwan-Terry, is as follows,:
+
+**Hsün Chü-po** travelled a great distance to see his friend, who was stricken ill. It happened that at this time the prefecture came under attack by the **Tartars**. The sick friend said to Chü-po, "Now I am about to die. You should leave immediately." "My friend lies ill," Chü-po answered, "and I cannot endure the thought of leaving him. Spare his life and take mine in its stead!" At this, the Tartars marvelled. "Indeed, we are iniquitous men who have come to the land of the righteous." So they gathered their troops and departed, and the prefecture was saved from destruction,,.
+
+** ### Structured Analysis: Trickster Variation Structure (Output)
+
+This analysis follows Hsün Chü-po's and the Tartars' story lines within the Trickster Variation structure-:
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | `r` | Opening | [Implied] |
+| 2 | `m` | Initial situation (set-up: who, when, where – two characters on different quests) | Hsun Chü-po |
+| 3 | `↽` | Problem | … had a friend who was ill. |
+| 4 | `⇀` | Journey | He travelled a great distance to see him. They converse. |
+| 5 | `↽` | Meeting between … | Hsun Chü-po and the Tartars meet |
+| 6 | `⇌` | … the two characters which sets up a cognitive dissonance (**Trickster Awe step**) | Hsun Chü-po tells the Tartars to spare his life and take his instead. The Tartars order Hsun Chü-Po to leave. |
+| 7 | `↽` | Meeting between … | [Implied] |
+| 8 | `⇌` | … the two characters which resolves the cognitive dissonance (**Transformational Twist**) | At this, the Tartars marvelled. "Indeed, we are iniquitous men who have come to the land of the righteous." So they gathered their troops and departed … |
+| 9 | `m` | Final situation (outcome/resolution) | … and the prefecture was saved from destruction. |
+| 10 | `r` | Closing | [Implied] |
+I am happy to help you expand your test database with more structured examples from the source material. These examples represent two distinct Linear story structures: **Transformation** and **Trickster**.
+
+* ## 1. The Story of Cornix (Transformation Structure)
+
+This structure is noted for being highly compressed and is common in Ovid’s *Metamorphoses*. It typically revolves around an **act of transgression against the natural order** and a violent act of retribution that restores equilibrium.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The following narrative is Cornix’s account of her metamorphosis:
+
+"Once when I \[Cornix] was walking slowly as I used to do along the crest of the sands by the shore the sea-god \[Neptune] saw me and grew hot. When his flattering words and entreaties proved a waste of time, he tried force, and chased after me. I ran, leaving the solid shore behind, tiring myself out uselessly in the soft sand. Then I called out to gods and men. No mortal heard my voice, but the virgin goddess \[Minerva] feels pity for a virgin and she helped me. I was stretching out my arms to the sky: those arms began to darken with soft plumage. I tried to lift my cloak from my shoulders but it had turned to feathers with roots deep in my skin. I tried to beat my naked breast with my hands but found I had neither hands nor naked breast. I ran, and now the sand did not clog my feet as before but I lifted from the ground, and soon sailed high into the air. So I became an innocent servant of Minerva".
+
+** ### Structured Analysis: Cornix's Story Line (Output)
+
+The Transformation structure is the most compressed structure identified in the sources.
+
+The minimal structural form is: **`r m ↽ ⇀ m r`**.
+
+| Steps | Symbols | Structure         | Outline of content                                                                  |
+| :---: | :---:   | :---              | :---                                                                                |
+|     1 | `r`     | Opening           | Once upon a time ….                                                                 |
+|     2 | `m`     | Initial situation | … Cornix ….                                                                         |
+|     3 | `↽`    | Problem           | … was chased by Neptune … (Represents the transgression against the natural order). |
+|     4 | `⇀`    | Resolution        | … but was saved by Minerva … (Represents the restoration of equilibrium).           |
+|     5 | `m`     | Final situation   | … who transformed Cornix into a white crow. [Cornix lived like that …].             |
+|     6 | `r`     | Closing           | … from then on.                                                                     |
+
+* ## 2. Lazy Jack (Trickster Structure)
+
+The story of Lazy Jack follows a clear Trickster structure, characterized by repetitive cycles of defeated expectation and a final unexpected, non-duplicitous resolution. The conflict here revolves around **Conflicting Quests**: Jack's quest to be obedient versus his mother's quest to give him self-supporting advice, where her advice consistently fails.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+This narrative outline covers the core events and their comedic, failed nature [115–117]:
+
+**Lazy Jack**’s story line starts with his mother sending him out to get a new job. He returns having earned a penny, which he promptly loses in a slot in the floor on the way home, leading to his mother telling him he should have put it in his pocket. This begins a cycle that repeats multiple times:
+
+1.  **Penny:** Jack loses it; Mother advises putting it in his pocket.
+2.  **Milk:** He puts the milk in his pocket and loses it. Mother advises carrying it on his head.
+3.  **Cheese:** He carries the cheese on his head, losing and crushing it. Mother advises carrying it carefully in his hands.
+4.  **Cat:** He carries the cat in his hands, but it scratches and escapes. Mother advises tying it to a string.
+5.  **Meat:** He ties the meat to a string, dragging it home where it is destroyed. Mother advises carrying it over his shoulder.
+
+Finally, Jack is sent off to get a new job. He earns a **donkey**, which, following his mother’s last piece of advice, he carries back over his shoulder. Passing through town, he is seen by a supposedly deaf and dumb girl who **bursts out laughing** at the sight and starts to speak. They end up married and live happily together with Jack’s mother.
+
+** ### Structured Analysis: Jack's Story Line (Output)
+
+The structure is a **Trickster structure**, where the repeated steps 3–8 condense. The final Comic step (step 14) resolves the sequence by curing the girl and leading to Jack's good fortune.
+
+The condensed structural form is: **`r m ↽ ⇀ ↽ ⇌ ↽ ⇌ m r`**.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | `r` | Opening | Once upon a time …. |
+| 2 | `m` | Initial situation | … Jack …. |
+| 3 | `↽` | Problem | … his mother wanted him to be self-supporting, but his actions failed to meet the mark. |
+| 4 | `⇀` | Journey | … so she sent him to work. |
+| 5 | `↽` | Meeting between … | … he met his employer, received payment. |
+| 6 | `⇌` | … the two characters (one is tricked or duped by the other) | He subsequently wasted the goods (Trickster/Comic step, repeated five times). |
+| 7 | `↽` | Meeting between … | He met the deaf and dumb girl while carrying the donkey over his shoulder. |
+| 8 | `⇌` | … the two characters (the previously duped character tricks the other) | She laughed, was cured, and married him (Transformational Twist/Comic step). |
+| 9 | `m` | Final situation | They ended up married. |
+| 10 | `r` | Closing | … and lived happily together. |
+
+
+* ## 3. The Three Little Pigs (Quest Structure)
+
+The *pigs'* story line in *The Three Little Pigs* serves as a classic illustration of the **Quest structure**. A Quest structure always relates to a problem within a character’s power to solve and requires them to call on "friends or helpers".
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The bare bones summary focuses on the pigs’ combined Quest:
+
+1.  **Opening:** The pigs needed to move out.
+2.  **Problem:** They needed houses to protect themselves from the wolf.
+3.  **Journey/Action:** They built houses (of straw, sticks, and brick).
+4.  **Problem:** The wolf came knocking at the doors.
+5.  **Resolution:** Biddy and Dennis escaped to Rex's house.
+6.  **Resolution:** Together with Rex, they managed to defeat the wolf.
+7.  **Final Situation:** They lived safely.
+8.  **Closing:** [Implied].
+
+** ### Structured Analysis (Output)
+
+The Quest structure is fundamentally an expanded Transformation structure. The full 10-step Quest structure is mapped as follows:
+
+The minimal structural form is: **`r m ↽ ⇀ ↽ ⇀ ↽ ⇀ m r`**.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | `r` | Opening | [Implied]. |
+| 2 | `m` | Initial situation | Pigs needed to leave home/find shelter. |
+| 3 | `↽` | Problem | They needed protection from the wolf. |
+| 4 | `⇀` | Journey | They built their houses. |
+| 5 | `↽` | Meeting with … | They met their friend/helper (Rex, the third pig). |
+| 6 | `⇀` | … friend/helper | The stronger house helped them resist the wolf. |
+| 7 | `↽` | Meeting with … | They met the enemy/hindrance (the wolf’s attempt to enter the brick house). |
+| 8 | `⇀` | … enemy/hindrance | They defeated the wolf (by boiling him in the pot). |
+| 9 | `m` | Final situation | They lived safely ever after. |
+| 10 | `r` | Closing | [Implied]. |
+
+(Note: In the context of an academic essay, the structure outlined above is the basis for a 5-paragraph essay, with steps 7 and 8 typically missing in the standard formula, demonstrating a lack of critical thinking.)
+
+
+* ## 1. Nasr-el-Din Hodja and the Walnut Tree (Quest Structure)
+
+This example features a detailed narrative reflecting Hodja's philosophical journey and the full 10-step Quest structure analysis, which contains two complete unfortunate/fortunately pairs of steps ($\leftleftarrows \rightharpoons$).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+Once upon a time, **Nasr-el-Din Hodja** lay under a walnut tree to rest. While his body was at rest, his mind was troubled. **He couldn’t understand why Allah, in His infinite wisdom had paired a big, strong tree and small, light walnuts**. Hodja had an idea – **he thought that it would be far better for large pumpkins to grow on sturdy trees, and small walnuts on the slender stems of creeping plants**. Sleep came to him before he could follow this train of thought further. A walnut fell on him from the tree and woke him up. He realised that if the world had been constructed according to his scheme, he would have been killed. He then realised that there was a good reason why things were the way they were rather than the way he thought they should be. And he never questioned the wisdom of Allah ever again.
+
+** ### Structured Analysis: Hodja’s Story Line (Output)
+
+The problem Hodja faces is a **lack of clarity and understanding**, which is resolved when things are finally clarified. This story follows the **Quest structure**, symbolized by **$r\ \text{m}\ \leftleftarrows\ \rightharpoons\ \leftleftarrows\ \rightharpoons\ \leftleftarrows\ \rightharpoons\ \text{m}\ r$** [49–51, 70, 72, 464].
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | Once upon a time … |
+| 2 | $\text{m}$ | Initial situation | Nasr-el-Din Hodja lay under a walnut tree to rest. |
+| 3 | $\leftleftarrows$ | Problem (Unfortunately) | His mind was troubled; he questioned why Allah paired a big tree with small walnuts. |
+| 4 | $\rightharpoons$ | Journey (Fortunately) | Hodja had an idea for a better arrangement of pumpkins and walnuts. |
+| 5 | $\leftleftarrows$ | Meeting with … (Unfortunately) | Sleep came to him before he could follow this train of thought further. |
+| 6 | $\rightharpoons$ | … friend/helper (Fortunately) | A walnut fell on him from the tree and woke him up. |
+| 7 | $\leftleftarrows$ | Meeting with … (Unfortunately) | He realised that if his scheme were true, he would have been killed. |
+| 8 | $\rightharpoons$ | … enemy/hindrance (Fortunately) | He realised there was a good reason why things were the way they were. |
+| 9 | $\text{m}$ | Final situation | And he never questioned the wisdom of Allah … |
+| 10 | $\text{r}$ | Closing | … ever again. |
+
+* ## 2. The Woman who Humoured her Lover at Her Husband’s Expense (Trickster Structure)
+
+This is a complex narrative featuring nested Trickster and Quest structures. This story (Aarne-Thompson-Uther type 1741) revolves around a wife who successfully tricks her husband multiple times for the benefit of her lover, while using Trickster steps to neutralize threats (such as the guest and her husband's friend).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The following narrative is based on the version found in *The Arabian Nights* [115, 135n12]:
+
+A woman conspires with her lover while her merchant husband is away on business. The lover arrives, and they meet and agree to a plan. The husband returns with a friend/guest (as requested by the wife). The wife tells the merchant that one friend is not enough. This leaves the guest alone with the wife, who frightens him by telling him her husband wants to castrate him, making him run off. Just as the husband returns with more guests, he is told the first guest stole the geese. The husband runs off after the first guest, believing he wants to recover at least one goose. Meanwhile, the first guest believes the merchant wanted to castrate him (take "one of his balls"). The first guest leaves town, and the couple and their remaining guests end up having a simple meal together. As for the lover and the geese, that is "another story for another time".
+
+** ### Structured Analysis: Multi-Character Trickster Sequence (Output)
+
+The core Trickster actions are found in the sequence where the wife deceives both the first guest and her husband. This analysis shows how the multiple character story lines intersect using the **Trickster symbol ($\leftleftharpoons$)** to denote cognitive dissonance and defeated expectation.
+
+| Steps | Symbols             | Structure                 | Outline of content                                                                                                              |
+| :---: | :---:               | :---                      | :---                                                                                                                            |
+| **1**   | $\leftleftarrows$   | Meeting between …         | The lover arrived ….                                                                                                            |
+| **2**   | $\rightharpoons$    | … friend/helper           | … and left with the geese. (Lover completes his Quest/Trickster goal)                                                           |
+| **3**   | $\leftleftarrows$   | Meeting between …         | The merchant arrived with a friend, as requested.                                                                               |
+| **4**   | $\leftleftharpoons$ | … one is tricked or duped | … but was told one wasn’t enough. (Wife deceives husband)                                                                       |
+| **5**   | $\leftleftarrows$   | Meeting between …         | This left the guest alone with the wife ….                                                                                      |
+| **6**   | $\leftleftharpoons$ | … one is tricked or duped | … who told him that her husband wanted to castrate him …. (Wife tricks guest)                                                   |
+| **7**   | $\leftleftarrows$   | Meeting between …         | … making him run off just as the husband returned with more guests ….                                                           |
+| **8**   | $\leftleftharpoons$ | … one is tricked or duped | … to be told the first guest had stolen the geese …. (Wife tricks husband again)                                                |
+| **9**   | $\leftleftarrows$   | Meeting between …         | … making the husband run off after the first guest ….                                                                           |
+| **10**  | $\leftleftharpoons$ | … one is tricked or duped | … to get at least one goose back, while that guest thought the merchant wanted one of his balls. (Final Transformational Twist) |
+
+The Trickster step ($\leftleftharpoons$) involves a defeated expectation based on an Aristotelian categorical cognitive dissonance. In this case, the husband is duped because he misunderstands the social situation and the motivations of the guest and his wife.
+
+* ### Summary of Poetic Structures
+
+The methodology is also applied to regular poetic forms, where the structure is based on **patterns of anticipation and expectation** rather than character events. These can be useful for mapping aesthetic output.
+
+| Poetic Form | Structure                   | Narrative Link                                                                                                                                                              | Source |
+| :---        | :---                        | :---                                                                                                                                                                        | :---   |
+| **Limerick**  | Revelation                  | The form follows a **Revelation structure** ($\text{r}\ \text{m}\ \leftleftarrows\ \rightharpoons\ \text{u}\ \rightharpoons\ \text{m}\ \text{r}$).                            |        |
+| **Landay**    | Transformation              | The poetic form follows a **Transformation structure** ($\text{r}\ \text{m}\ \leftleftarrows\ \rightharpoons\ \text{m}\ \text{r}$), based on two lines of 9 and 13 syllables. |        |
+| **Haiku**     | Open-Ended Ki-Shō-Ten-Ketsu | The Haiku follows an **Open-Ended Ki-Shō-Ten-Ketsu structure** which closely follows the elemental cycle of the **Chinese Circular Structure**.                                 |        |
+
+
+* ## 1. The Wolf in The Three Wee Pigs (Trickster Structure)
+
+This analysis follows the antagonist's story line in *The Three Wee Pigs*, revealing a Trickster structure rooted in defeated expectations.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The wolf's motivation is hunger, which drives his quest for food. He encounters three houses in turn, behind which he senses an increasing number of pigs. He attempts to dissemble (pretend to be a well-meaning visitor) at the first two houses but is refused entry. He blows down the first two houses and fails to catch Biddy and Dennis. He then attempts to gain entry to the third, stronger house via the chimney. This attempt results in him encountering burning straw, leading to his defeat.
+
+** ### Structured Analysis: The Wolf’s Story Line (Output)
+
+The full structure is a **Trickster structure**. It is condensed from a longer sequence that includes the wolf's internal journey. The double barb ($\leftleftharpoons$) is used to signify the cognitive dissonance inherent in the Trickster or Dupe step.
+
+The linear form is scribed as: **$\text{r m} \leftleftarrows \rightharpoons \leftleftarrows \leftleftharpoons \leftleftarrows \leftleftharpoons \text{m r}$**.
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | A wolf … |
+| 3 | $\leftleftarrows$ | Problem | … was hungry [implied] … |
+| 4 | $\rightharpoons$ | Journey | … so he went off in search of food … [implied] |
+| 5 | $\leftleftarrows$ | Meeting between … | … and when he was brought short by three doors in turn, behind which he could sense increasing numbers of pigs … |
+| 6 | $\leftleftharpoons$ | … one is tricked or duped by the other | … he dissembled at the first two, and asked to be let in; and tried to get into the third via the chimney. |
+| 7 | $\leftleftarrows$ | Meeting between … | Although he blew the first houses in, almost managed to eat the first two pigs and almost managed to gain entry to the third house, … |
+| 8 | $\leftleftharpoons$ | … the two characters (the previously duped character tricks the other) | … the three pigs always managed to get the better of him … |
+| 9 | $\text{m}$ | Final situation (outcome/resolution) | … and he met a tragic end which allowed the pigs to live out their lives in peace and quiet. |
+| 10 | $\text{r}$ | Closing | [Implied] |
+
+
+* ## 2. Sleeping Beauty (Death and Rebirth Structure)
+
+The **Death and Rebirth structure** is closely related to the Quest structure but is distinctive because it revolves around the resolution of an initial **lack** and the subsequent price paid for that resolution, followed by the intervention of a passive character's **Saviour**.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+A royal couple suffers from a lack of a child (Problem/Lack). Their wish for a child is granted, and they celebrate (Lack Fulfilled). A reversal occurs when a fairy curses the baby princess to prick herself and fall into a death-like sleep. Despite attempts to avoid the price, the princess falls asleep (Submersion). Time passes. A Prince arrives, completes a necessary quest, and wakes the princess with a kiss (Saviour Quest). They marry, and the story concludes.
+
+### Structured Analysis: The Royal Couple’s and Prince’s Story Lines (Output)
+
+The structure requires a minimum of 10 steps and contains a nested Quest structure for the Saviour character (the Prince).
+
+The minimal structural form is: **$\text{r m} \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{m r}$**.
+
+| Steps | Symbols | Structure | Outline of Content (Royal Couple/Princess) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | Once upon a time … |
+| 2 | $\text{m}$ | Initial situation | … a royal couple … |
+| 3 | $\leftleftarrows$ | Problem (lack) | … lack a child. |
+| 4 | $\rightharpoons$ | Lack fulfilled | Their wish is granted … they celebrate … |
+| 5 | $\leftleftarrows$ | Reversal/Price to pay | … but the price for their good fortune is exacted when a fairy curses the princess. |
+| 6 | $\rightharpoons$ | Attempts to avoid paying the price | They try to avoid paying the price, but fail. |
+| 7 | $\leftleftarrows$ | Submersion | She falls asleep. |
+| 8 | $\rightharpoons$ | Nested Quest structure involving Saviour character starts | Time passes. (The prince goes on a quest.) |
+| 9 | $\text{m}$ | Final situation (outcome/resolution) | She is woken by the prince’s kiss, and they marry … |
+| 10 | $\text{r}$ | Closing | … bringing the story to an end … |
+
+
+* ## 3. Cinderella (Rags to Riches Structure)
+
+The **Rags to Riches structure** also follows a 10-step model but is unique among the Quest-family structures because the first main step is positive ($\rightharpoons$), indicating the character starts in a state of grace or good fortune.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+Cinderella begins life in a relatively positive condition. The problem (Reversal) arrives when she experiences a **reversal of fortune** (her mother dies, and she is ill-treated by her stepmother and stepsisters), placing her in a state of subversion. She is unable to solve her problem alone. A metaphysical friend/helper (often a supernatural external force) intervenes, allowing her to attend the ball (Journey/Meeting). She then experiences a **reversion** to her previous state, but in an altered state of consciousness (she now has hope/a slipper). The Saviour character (the Prince) follows a **nested Quest** to find her (Final Quest).
+
+** ### Structured Analysis (Output)
+
+The minimal structural form is: **$\text{r m} \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{m r}$**.
+
+| Steps | Symbols           | Structure                                                        | Outline of Content (Cinderella’s Story Line)                                                                                                          |
+| :---: | :---:             | :---                                                             | :---                                                                                                                                                  |
+|     1 | $\text{r}$        | Opening                                                          | [Opening]                                                                                                                                             |
+|     2 | $\text{m}$        | Initial situation                                                | Cinderella (in a state of initial good fortune/grace).                                                                                                |
+|     3 | $\rightharpoons$  | Positive condition                                               | Her family life is happy; her fortune is secure.                                                                                                      |
+|     4 | $\leftleftarrows$ | Problem (reversal)                                               | Her mother dies, and her father remarries; she is ill-treated, resulting in a state of subversion.                                                    |
+|     5 | $\rightharpoons$  | Journey                                                          | Her metaphysical friend/helper (fairy godmother) appears.                                                                                             |
+|     6 | $\leftleftarrows$ | Journey thwarted, meeting with …                                 | She attends the ball/meets the Prince (which temporarily thwarts the journey toward resolution).                                                      |
+|     7 | $\rightharpoons$  | … friend/helper                                                  | The positive transformation (at the ball) is achieved by means of the external, supernatural force.                                                   |
+|     8 | $\leftleftarrows$ | Reversion to previous state in an altered state of consciousness | She returns to her state of subversion, but with the hope embodied by the lost slipper (nested Quest structure involving a Saviour character starts). |
+|     9 | $\text{m}$        | Final situation (outcome/resolution)                             | The Saviour character’s quest resolves her state of subversion; they marry.                                                                           |
+|    10 | $\text{r}$        | Closing                                                          | [Closing]                                                                                                                                             |
+
+This latest request guides the extraction precisely towards the foundational Linear structures discussed in the first chapters of the book, which detail the mechanics of the system: **Transformation**, **Rags to Riches**, and a key **Trickster** example.
+
+I have extracted three detailed examples below, including their narrative outlines and corresponding structured symbolic analyses.
+
+* ## 1. The Story of Medusa (Transformation Structure)
+
+This example is based on Ovid's *Metamorphoses*, a collection of stories known for their highly compressed **Transformation structure**. The structure centers on a transgression followed by a violent restoration of order.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The narrative focuses on the events leading to Medusa’s transformation by the goddess Minerva (Athena):
+
+In one version of her history, **Medusa** was originally a beautiful mortal maiden. **Neptune** (Poseidon), overcome by lust, took advantage of Medusa in **Minerva’s** (Athena’s) temple [127, 132n5, 132n6]. Minerva, viewing this as a **transgression against the natural order** (her temple being defiled), punished Medusa, transforming her hair into snakes and giving her a hideous appearance. By transforming Medusa's extreme beauty into extreme ugliness, Minerva punished either Neptune or Medusa for their transgression.
+
+** ### Structured Analysis: Medusa’s Story Line (Output)
+
+The Transformation structure is the most compressed structure, using only six steps.
+
+The minimal structural form is: $\text{r m } \leftleftarrows \rightharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Medusa, known for her beauty. |
+| 3 | $\leftleftarrows$ | Transgression against the natural order | Neptune violates Medusa in Minerva’s temple. |
+| 4 | $\rightharpoons$ | Restoration of natural order | Minerva intervenes and punishes the transgression. |
+| 5 | $\text{m}$ | Final situation | Medusa is transformed into a Gorgon with snakes for hair. |
+| 6 | $\text{r}$ | Closing | [Implied] |
+
+* ## 2. Cinderella (Rags to Riches Structure)
+
+The **Rags to Riches structure** is distinctive because, unlike the Quest, Transformation, and Death and Rebirth structures, it begins with a forward, positive condition ($\rightharpoons$).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+**Cinderella** initially lives in a state of grace or good fortune (a positive condition). This happy condition reverses (Reversal/Problem) when her mother dies and she is subject to cruel mistreatment by her stepmother and stepsisters, putting her in a **state of subversion**. She cannot solve this problem herself. A metaphysical friend/helper (e.g., a fairy godmother) appears and enables her to attend the ball. At the ball, she meets the Prince, but she must return to her unhappy home by midnight (Journey thwarted/Reversion). Her magical transformation disappears, but she loses her slipper (Reversion to previous state in an altered state of consciousness). The Prince initiates a **nested Quest** to find the owner of the slipper (Saviour character starts Quest), resolving her state of subversion, and they marry (Final situation).
+
+** ### Structured Analysis (Output)
+
+The Rags to Riches structure is a 10-step linear structure.
+
+The minimal structural form is: $\text{r m } \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Cinderella (in a state of initial good fortune/grace). |
+| 3 | $\rightharpoons$ | Positive condition | Her family life is happy; her fortune is secure. |
+| 4 | $\leftleftarrows$ | Problem (reversal) | Her mother dies, and she is ill-treated, resulting in a state of subversion. |
+| 5 | $\rightharpoons$ | Journey | Her metaphysical friend/helper appears. |
+| 6 | $\leftleftarrows$ | Journey thwarted, meeting with … | She attends the ball/meets the Prince. |
+| 7 | $\rightharpoons$ | … friend/helper | The positive transformation (at the ball) is achieved by means of the external, supernatural force. |
+| 8 | $\leftleftarrows$ | Reversion to previous state in an altered state of consciousness | She returns to her state of subversion, but with the hope embodied by the lost slipper (nested Quest structure involving a Saviour character starts). |
+| 9 | $\text{m}$ | Final situation | The Saviour character’s quest resolves her state of subversion; they marry. |
+| 10 | $\text{r}$ | Closing | [Implied] |
+
+***
+
+* ## 3. When Goha Lost His Donkey (Trickster Structure)
+
+This example features the trickster Goha (also known as Nasr-el-Din Hodja) and illustrates how the **Trickster structure** uses the double barb ($\leftleftharpoons$) to mark cognitive dissonance and defeated expectation.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+**Goha** (or Cogia Nasr Eddin Efendi) lost his donkey. He went to look for it. Meeting a man on the way, Goha asked the man whether he had seen it. The man replied, **“I’ve seen the donkey officiating as a judge.”** Goha processed the response and answered, **“I knew he’d be a Cadi \[Judge] … when I taught him philosophy, I noticed his ears weren’t sewed up.”** The story is left open-ended.
+
+** ### Structured Analysis: Goha’s Story Line (Output)
+
+The story follows a **Trickster structure**, although the cognitive dissonance step ($\leftleftharpoons$) could potentially be interpreted as a Comic step or a Trickster Awe step, depending on whether the man's action is seen as trickery or simply surprising commentary.
+
+The condensed structural form is: $\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \leftleftharpoons \leftleftarrows \leftleftharpoons \text{ m r}$.
+
+| Steps | Symbols             | Structure                                                                                       | Outline of content                                                                                           |
+| :---: | :---:               | :---                                                                                            | :---                                                                                                         |
+|     1 | $\text{r}$          | Opening                                                                                         | Once upon a time ….                                                                                          |
+|     2 | $\text{m}$          | Initial situation                                                                               | … Goha ….                                                                                                    |
+|     3 | $\leftleftarrows$   | Problem                                                                                         | … lost his donkey ….                                                                                         |
+|     4 | $\rightharpoons$    | Journey                                                                                         | … so he went to look for it.                                                                                 |
+|     5 | $\leftleftarrows$   | Meeting between …                                                                               | Meeting a man on the way, Goha asked the man whether he’d seen it.                                           |
+|     6 | $\leftleftharpoons$ | … one is tricked or duped by the other (Trickster/Comic step)                                   | “I’ve seen the donkey officiating as a judge,” came the reply.                                               |
+|     7 | $\leftleftarrows$   | Meeting between …                                                                               | Goha processed the response ….                                                                               |
+|     8 | $\leftleftharpoons$ | … the two characters (the previously duped character tricks the other) (Transformational Twist) | … and answered, “I knew he’d be a Cadi … when I taught him philosophy, I noticed his ears weren’t sewed up”. |
+|     9 | $\text{m}$          | Final situation                                                                                 | [The story is left unresolved].                                                                              |
+|    10 | $\text{r}$          | Closing                                                                                         | [The story is left open-ended].                                                                              |
+
+
+* ## 1. Snow White (Death and Rebirth Structure)
+
+The Death and Rebirth structure is characterized by the resolution of an initial **lack** and the subsequent price paid, culminating in the appearance of a Saviour character. The core structure requires a minimum of 10 steps and starts with a backward step ($\leftleftarrows$).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The *Snow White* story line begins with a lack: the Queen wants a child with skin as white as snow, lips as red as blood, and hair as black as ebony (Problem/Lack). Her wish is granted (Lack Fulfilled). However, a reversal occurs when the Evil Queen (who acts as a “negative” metaphysical helper) curses Snow White. Snow White attempts to avoid the price but fails, pricking herself and falling into a death-like sleep (Submersion). Time passes until a Prince (the Saviour character) arrives, and his action breaks the curse. They marry, restoring order (Final Situation).
+
+** ### Structured Analysis (Output)
+
+The Death and Rebirth structure includes a nested Quest structure for the Saviour character and follows the form: **$\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{ m r}$**.
+
+| Steps | Symbols | Structure | Outline of Content (Snow White's Story Line) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Snow White is born. |
+| 3 | $\leftleftarrows$ | Problem (lack) | The Queen (her mother) dies, and she is threatened by the Evil Queen. |
+| 4 | $\rightharpoons$ | Lack fulfilled | Her mother's wish is granted; she grows up beautiful. |
+| 5 | $\leftleftarrows$ | Reversal/Price to pay | The Evil Queen attempts to kill her. |
+| 6 | $\rightharpoons$ | Attempts to avoid paying the price | She escapes and is hidden by the dwarfs. |
+| 7 | $\leftleftarrows$ | Submersion | She falls into a death-like sleep after eating the poisoned apple. |
+| 8 | $\rightharpoons$ | Nested Quest structure involving Saviour character starts | Time passes. The Prince finds her coffin. |
+| 9 | $\text{m}$ | Final situation (outcome/resolution) | She is revived by the Prince and they marry. |
+| 10 | $\text{r}$ | Closing | [Implied] |
+
+* ## 2. Neptune's Quest in The Story of Cornix (Quest Structure)
+
+The story of Cornix features multiple intersecting story lines, which can be mapped to different structures. While Minerva's story line is highly compressed (Transformation), Neptune's story line, focused on his pursuit of Cornix, clearly follows the **Quest structure**.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+**Neptune** (the sea-god) saw the maiden Cornix walking by the shore and was overcome by desire. Neptune first used "flattering words and entreaties" (Journey) but when these failed, he resorted to force. His quest to possess Cornix was **thwarted by Minerva**, who intervened and transformed Cornix into a crow, thereby restoring the natural order. Neptune's desire remained unfulfilled.
+
+** ### Structured Analysis: Neptune's Story Line (Output)
+
+Neptune's story line follows the full 10-step Quest structure, where Minerva acts as the **Enemy/Hindrance** who defeats his objective.
+
+| Steps | Symbols | Structure | Outline of Content (Neptune’s Quest) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Neptune is driven by lust (Problem implied in state). |
+| 3 | $\leftleftarrows$ | Problem | He is enamoured by Cornix. |
+| 4 | $\rightharpoons$ | Journey | He uses flattery and entreaties (his "friends and helpers") to win her over. |
+| 5 | $\leftleftarrows$ | Meeting with … | He tries to use force. |
+| 6 | $\rightharpoons$ | … friend/helper | [Implied: His attempt initially helps him reach his goal]. |
+| 7 | $\leftleftarrows$ | Meeting with … | Cornix cries out for help (meeting the challenge/hindrance). |
+| 8 | $\rightharpoons$ | … enemy/hindrance | Minerva intervenes, thwarting his desires. |
+| 9 | $\text{m}$ | Final situation | Cornix is transformed into a crow; his quest is defeated. |
+| 10 | $\text{r}$ | Closing | [Implied] |
+
+* ## 3. The Academic Essay (Quest Structure)
+
+The system outlined can be used to analyze non-fictional texts, such as an academic essay, by treating the underlying abstract argument as a "story" and the components (thesis, evidence) as "events". The commonly used US five-part essay structure is explicitly mapped to the **Quest structure**.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+A five-part academic essay begins with an **Introduction** (Initial situation/Opening). The author identifies a specific **Problem** to address. The **Thesis** functions as the Journey, stating the main solution. The body paragraphs provide **Evidence** (Meeting with...), which requires **Analysis** (Friend/Helper) to support the thesis. Finally, the essay reaches a **Conclusion** (Final situation/Outcome). (Note: The structural requirements of the Quest model ensure that arguments against the thesis—the 'wolf'—are addressed and defeated through sound reasoning.)
+
+** ### Structured Analysis (Output)
+
+The Academic Essay Structure follows the Quest model: **$\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{ m r}$**.
+
+
+| Steps | Symbols           | Structure         | Outline of Content (Academic Essay Process)                       |
+| :---: | :---:             | :---              | :---                                                              |
+|     1 | $\text{r}$        | Opening           | Introduction (Setting the stage for inquiry).                     |
+|     2 | $\text{m}$        | Initial situation | Topic and context defined.                                        |
+|     3 | $\leftleftarrows$ | Problem           | Identifying the question or issue to be resolved.                 |
+|     4 | $\rightharpoons$  | Journey           | Thesis (The main argument/solution proposed).                     |
+|     5 | $\leftleftarrows$ | Meeting with …    | Evidence (Gathering supporting data/sources).                     |
+|     6 | $\rightharpoons$  | … friend/helper   | Analysis (Interpreting the evidence to support the thesis).       |
+|     7 | $\leftleftarrows$ | Meeting with …    | Arguments against the point of view (The 'Wolf'/Enemy/Hindrance). |
+|     8 | $\rightharpoons$  | … enemy/hindrance | Counter-arguments and defeat of opposing views (Sound Reasoning). |
+|     9 | $\text{m}$        | Final situation   | Conclusion (Outcome/Resolution of the central question).          |
+|    10 | $\text{r}$        | Closing           | Implications and close.                                           |
+
+
+* ## 1. The Gigantic Turnip (Quest Structure)
+
+This is a classic example used in the sources to demonstrate the working process of identifying story structure elements and is a clear illustration of the **Quest structure**.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+This is a **cumulative story** in which the main character, the grandfather, starts with a problem (the turnip is too large to harvest). He goes through a sequence of events where, after many failed attempts, he overcomes the hindrance with the help of his family and friends, leading to his problem being solved.
+
+** ### Structured Analysis: The Grandfather's Story Line (Output)
+
+The structure is the full 10-step Quest structure, requiring three pairs of 'backward-forward' steps framed by the opening/closing and initial/final marks.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | implied |
+| 2 | $\text{m}$ | Initial situation (set-up: who, when, where) | A grandfather planted a turnip seed. |
+| 3 | $\leftleftarrows$ | Problem | He couldn’t pull up the turnip…. |
+| 4 | $\rightharpoons$ | Journey | … so he called his grandmother to help him. |
+| 5 | $\leftleftarrows$ | Meeting with … | … but his grandmother couldn’t pull it up either. |
+| 6 | $\rightharpoons$ | … friend/helper | … so they called the granddaughter…. |
+| 7 | $\leftleftarrows$ | Meeting with … | … but the granddaughter couldn’t pull it up either. |
+| 8 | $\rightharpoons$ | … enemy/hindrance | … helped them pull up the turnip. (Note: The hindrance is overcome by the accumulated help, enabling the resolution). |
+| 9 | $\text{m}$ | Final situation (outcome/resolution) | … enabling the grandfather to harvest it. |
+| 10 | $\text{r}$ | Closing | implied. |
+
+
+* ## 3. The Story of Narcissus (Transformation Structure)
+
+This serves as another example of the highly compressed **Transformation structure**, driven by a transgression against the natural order.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The Narcissus story line is defined by a philosophical flaw: **Narcissus transgresses against love by turning his feelings inwards rather than outwards**. As a result of this transgression, he is forced to eternally gaze lovingly at his reflection after being transformed into a flower.
+
+** ### Structured Analysis: Narcissus's Story Line (Output)
+
+The Transformation structure is the most condensed form, requiring only six steps: $\text{r m } \leftleftarrows \rightharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Narcissus (A beautiful mortal maiden) |
+| 3 | $\leftleftarrows$ | Transgression against the natural order | Narcissus turns his feelings inwards, transgressing against love. |
+| 4 | $\rightharpoons$ | Restoration of natural order | He is compelled to gaze lovingly at his reflection (the curse/punishment). |
+| 5 | $\text{m}$ | Final situation | He is changed into a flower. |
+| 6 | $\text{r}$ | Closing | [Implied] |
+
+
+* ## 4. Inverse Rags to Riches / Rich to Rags (Death and Rebirth Structure)
+
+The Rags to Riches structure begins with a positive condition ($\rightharpoons$), but an inverse structure—starting positively and then collapsing into a permanent negative state—is functionally equivalent to the **Death and Rebirth structure** because of the inherent, unresolved lack at the heart of the Death and Rebirth framework.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+A story created to demonstrate this inverse structure: A billionaire decides to give away his wealth to his long-lost brother. The billionaire wants to find love but his problem is that he thinks money can buy him happiness. He pursues spiritual paths, but his cynicism and materialism prevent him from finding a lasting relationship, leading to a tragic end.
+
+** ### Structured Analysis: The Billionaire's Story Line (Output)
+
+Since the Rags to Riches structure starts with a positive step (Good Fortune: $\rightharpoons$), its inverse logically starts with a problem ($\leftleftarrows$), which means it follows the same pattern as the **Death and Rebirth structure** (or Quest structure, depending on the nature of the lack/problem). This example, specifically identified as a *tragic Rags to Riches* in the sources, maps perfectly to the Death and Rebirth structure's internal mechanics because it deals with an internal lack/price paid, rather than a solvable Quest problem.
+
+| Steps | Symbols | Structure | Outline of Content (Billionaire's Tragic Life) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | The billionaire. |
+| 3 | $\leftleftarrows$ | Problem (lack) | He lacks love and meaningful existence. |
+| 4 | $\rightharpoons$ | Lack fulfilled | He tries to find fulfilment through material pursuits (giving away wealth, pursuing hobbies). |
+| 5 | $\leftleftarrows$ | Reversal/Price to pay | He fails to sustain a lasting relationship. |
+| 6 | $\rightharpoons$ | Attempts to avoid paying the price | He keeps trying to pursue love and spirituality. |
+| 7 | $\leftleftarrows$ | Submersion | His cynicism and materialism close off the path to meaning. |
+| 8 | $\rightharpoons$ | Nested Quest structure involving Saviour character starts | [Implied: He looks for a way out or resolution]. |
+| 9 | $\text{m}$ | Final situation (outcome/resolution) | He remains his own worst enemy and closes off the option for a meaningful existence. |
+| 10 | $\text{r}$ | Closing | [Implied: The tragedy is complete]. |
+
+This brings your collection to **20 distinct examples** for your technical demonstration test database.
+I am happy to provide additional examples to help you finalize your set of input-output pairs for the technical demonstration. Since you requested a focus on the first third of the book, these examples illustrate the **Voyage and Return** structure and two forms of **Tragic Linear structures** (Quest and Death and Rebirth) which are distinguished by the quality of their cognitive dissonance steps ($\rightleftharpoons$).
+
+* ## 1. The Day the Lights Went Out (Tragic Death and Rebirth Structure)
+
+This example illustrates a fictional scenario analyzed using the **Death and Rebirth structure**, but with a tragic outcome. The structural sequence remains the same, but the steps involving positive movement ($\rightharpoons$) take on a negative quality.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+Jean, the main character, is in her apartment, where the scent of summer fills the air (Initial Situation/Positive Condition). She is recovering from an illness (Problem/Lack). While recovering, she goes into a coma (Submersion). The medical staff do their best to save her (Attempt to avoid paying the price), but they fail, and Jean dies (Nested Quest/Saviour Fails). There is no resurrection or restoration of life.
+
+** ### Structured Analysis (Output)
+
+This story follows the **Death and Rebirth structure**, which requires a minimum of 10 steps and is characterized by an initial lack leading to a submersion phase. The tragic quality comes from the failure to find a Saviour or to achieve rebirth.
+
+The minimal structural form is: $\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of Content (Jean's Story Line) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Jean in her apartment, experiencing a brief moment of beauty. |
+| 3 | $\leftleftarrows$ | Problem (lack) | Jean is sick and suffering from a health problem. |
+| 4 | $\rightharpoons$ | Lack fulfilled | The promise of summer is present. (Represents the initial granting of life/wish fulfillment). |
+| 5 | $\leftleftarrows$ | Reversal/Price to pay | She goes into a coma. |
+| 6 | $\rightharpoons$ | Attempts to avoid paying the price | The medical staff intervene, trying to help. |
+| 7 | $\leftleftarrows$ | Submersion | Time passes. |
+| 8 | $\rightharpoons$ | Nested Quest structure involving Saviour character starts | The medical staff do their best (Saviour Quest in progress). |
+| 9 | $\text{m}$ | Final situation | They fail to save her, and Jean dies. |
+| 10 | $\text{r}$ | Closing | [Implied] |
+
+* ## 2. Paul’s Journey (Tragic Quest Structure)
+
+This structure demonstrates a story of tragedy that follows a **Quest structure**. The character has a problem within their power to solve, but an internal cognitive dissonance leads to failure, classifying the story as tragedy (structure neutral, but dependent on category mistakes).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+**Paul** suffers from extreme migraines (Problem). He wants to get better (Quest/Journey). He pursues various activities (friends/helpers) but, driven by anxiety and inertia, he chooses not to go out when he is physically able to. This prevents him from defeating the cause of his illness. He is duped by an internal "paradoxical category mistake" where he prioritizes safety over cure. He eventually commits suicide, tragically missing the chance to live a pain-free life.
+
+** ### Structured Analysis (Output)
+
+Paul's story line follows the **Quest structure**. The tragic potential arises because the character is his own enemy due to a "paradoxical category mistake".
+
+The minimal structural form is: $\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of Content (Paul’s Story Line) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Paul, suffering from migraines. |
+| 3 | $\leftleftarrows$ | Problem | He is unable to go out due to his illness. |
+| 4 | $\rightharpoons$ | Journey | He attempts various remedies to get better. |
+| 5 | $\leftleftarrows$ | Meeting with … | He meets inanimate objects/activities (e.g., puzzles, books). |
+| 6 | $\rightharpoons$ | … friend/helper | The objects/activities temporarily alleviate his pain. |
+| 7 | $\leftleftarrows$ | Meeting with … | His internal struggle prevents him from going outside (his unwitting self-sabotage/enemy). |
+| 8 | $\rightharpoons$ | … enemy/hindrance (Tragic Step) | He commits suicide, putting an end to his unhappiness, but tragically forfeiting the chance to recover. |
+| 9 | $\text{m}$ | Final situation | His story ends with silence. |
+| 10 | $\text{r}$ | Closing | [Implied] |
+
+***
+
+* ## 3. Voyage and Return Structure (Sinbad the Sailor)
+
+The **Voyage and Return structure** involves characters traveling to an unfamiliar realm, experiencing events that turn darker, and returning transformed. The mechanism of travel involves a "translation to a different dimension of being".
+
+** ### Full Story Text / Narrative Outline (Input)
+
+**Sinbad the Sailor** starts life with insufficient means after his parents die, having squandered his inheritance (Problem). He realizes he needs to earn money and sets out on a sea voyage (Journey/Translation). His ship is lost in a storm, stranding him in an unfamiliar realm (Problem of Return to Origins). Through ingenuity and help, he overcomes the perils and secures riches (Return/Resolution). He eventually returns to Baghdad, transformed by his experience.
+
+** ### Structured Analysis (Output)
+
+The Voyage and Return structure is derived from the Transformation structure and follows the pattern of five $\leftleftarrows \rightharpoons$ pairs. This expanded structure is often nested within a larger narrative like *The Thousand and One Nights*.
+
+The minimal structural form is: $\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \text{ m r}$.
+
+| Steps | Symbols           | Structure           | Outline of Content (Sinbad’s Story Line)                                     |
+| :---: | :---:             | :---                | :---                                                                         |
+|     1 | $\text{r}$        | Opening             | [Implied]                                                                    |
+|     2 | $\text{m}$        | Initial situation   | Sinbad, having wasted his inheritance.                                       |
+|     3 | $\leftleftarrows$ | Problem             | He needs to earn money to survive.                                           |
+|     4 | $\rightharpoons$  | Journey/Translation | He sets out on a sea voyage (translation to a different dimension of being). |
+|     5 | $\leftleftarrows$ | Problem (of return) | His ship is wrecked, leaving him stranded.                                   |
+|     6 | $\rightharpoons$  | Return/Resolution   | He overcomes the initial challenge (e.g., finding land/resources).           |
+|     7 | $\leftleftarrows$ | Problem             | He encounters monsters or grave perils.                                      |
+|     8 | $\rightharpoons$  | Journey             | He uses cunning and luck to survive (engaging helpers).                      |
+|     9 | $\leftleftarrows$ | Problem             | He faces the physical difficulty of travel or transport.                     |
+|    10 | $\rightharpoons$  | Return/Resolution   | He finds a means to return home (e.g., a merchant ship).                     |
+|    11 | $\text{m}$        | Final situation     | He returns to Baghdad, transformed by the experience.                        |
+|    12 | $\text{r}$        | Closing             | [Implied]                                                                    |
+
+Based on your requirement for additional, non-overlapping examples, I have extracted three distinct story structure pairs. These include a rare **Perpetual Motion** structure, a unique **Transformation** narrative, and a core **Revelation** structure demonstrated through a poetic form.
+
+***
+
+* ## 1. The Moon and His Two Wives (Perpetual Motion Structure)
+
+The **Perpetual Motion structure** is distinct because it lacks a clear final state ($\text{m}$) and involves cycles that repeat endlessly ($\dots$), often related to celestial or natural movements.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+This narrative is based on a Bushman or Malawian tale about the cyclical nature of the Moon:
+
+The **moon** is a man who has angered the **sun**. Every month, the moon reaches a state of round **prosperity** (fullness). However, the sun’s knife then cuts away pieces until finally only a tiny piece is left, which the moon pleads should be left for his children. It is from this tiny piece that the moon gradually grows again to become full, continually recurring in a **cycle of fullness and depletion**.
+
+** ### Structured Analysis (Output)
+
+The Perpetual Motion structure is defined by its repeating backward ($\leftleftarrows$) and forward ($\rightharpoons$) pairs which continue indefinitely.
+
+The minimal structural form is: $\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \dots$.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Character(s) emerge(s) | The Moon (and Sun/Wives, implied in the cycle). |
+| 3 | $\leftleftarrows$ | Problem | The Moon is at its fullest (excess/problem of weight gain). |
+| 4 | $\rightharpoons$ | Journey | The Sun's knife cuts the Moon away. (The Moon is forced to lose substance). |
+| 5 | $\leftleftarrows$ | Problem | Only a tiny piece is left (state of extreme lack). |
+| 6 | $\rightharpoons$ | Journey/Resolution | The Moon gradually grows again. |
+| $\dots$ | $\dots$ | Unfolding proceeds | [And continues to unfold in perpetuo $\dots$]. |
+
+
+* ## 2. The Story of Arachne (Transformation Structure)
+
+This example focuses on the narrative of Arachne, which also follows the highly compressed **Transformation structure** (already excluded are Cornix, Medusa, and Narcissus narratives).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The Arachne story line from Ovid revolves around a transgression against the divine realm:
+
+**Arachne**, a mortal skilled in weaving, consistently **refused to acknowledge the source of her gift** (Minerva/Pallas) and chose to compete against the goddess's skill. Arachne further transgressed by weaving depictions of divine acts of transgression (gods raping young women) onto her tapestry. Though **Minerva** found no technical fault, she struck Arachne on the forehead for her transgressions. Minerva then transformed Arachne into a spider and condemned her to **spin webs** in perpetuity.
+
+** ### Structured Analysis (Output)
+
+The Transformation structure is characterized by a transgression and a violent, transformative restoration of equilibrium, using the minimal form: $\text{r m } \leftleftarrows \rightharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Arachne, renowned for her weaving skill. |
+| 3 | $\leftleftarrows$ | Transgression against the natural order | Arachne refuses to acknowledge Minerva and depicts divine transgressions on her tapestry. |
+| 4 | $\rightharpoons$ | Restoration of natural order | Minerva strikes Arachne and transforms her. |
+| 5 | $\text{m}$ | Final situation | Arachne is consigned to spinning webs (restored order, but permanently altered). |
+| 6 | $\text{r}$ | Closing | [Implied] |
+
+
+* ## 3. The Limerick (Revelation Structure)
+
+The Limerick is a unique example because it is a poetic form that follows a **Revelation structure** ($\text{r m u m u r}$), which, when adapted into the linear structure notation, provides a distinct set of steps.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+A Limerick is typically a five-line poem (AABBA) where the first line sets up the character and setting. The second and third lines introduce a complication or unexpected event (often involving transgression), and the final line resolves the dissonance. The form itself sets up an expectation ($\leftleftarrows$) which is fulfilled ($\rightharpoons$).
+
+** ### Structured Analysis (Output)
+
+The Limerick's structure maps to the Revelation structure, which is classified as a Dynamic structure but is shown here using the Linear form notation where necessary (though the strict linear notation for Revelation involves the 'unmarked state' ($\text{u}$) symbol which is not used in the common Quest/Trickster structures).
+
+The Linear equivalent for Revelation structure is: $\text{r m u m u r}$ (often expanded to a linear sequence for practical use: $r\ \text{m} \leftleftarrows \rightharpoons \text{u} \rightharpoons \text{m r}$).
+
+| Steps | Symbols | Structure | Outline of content (Limerick’s Form) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] (Sets up cognitive dissonance in space-time). |
+| 2 | $\text{m}$ | Initial situation | The introduction of the form/character. |
+| 3 | $\leftleftarrows$ | Problem/Rumour (Veni step) | The first line sets up an expectation. |
+| 4 | $\rightharpoons$ | Journey/Verification (Vidi step) | The second line expands the situation. |
+| 5 | $\text{u}$ | Assertion/Denial (Vici step) | The third line leads to the point of defeated expectation (unmarked state). |
+| 6 | $\rightharpoons$ | Restoration/Resolution | The final two lines resolve the cognitive dissonance. |
+| 7 | $\text{m}$ | Final situation | The poem (form) comes to a close. |
+| 8 | $\text{r}$ | Closing | [Implied] (Returns to the ground of story). |
+
+Thank you for providing the definitive list of examples already covered. That helps immensely in ensuring the new entries are unique and contribute valuable diversity to your test set.
+
+Here are three additional examples, focusing on highly distinctive structures not yet fully represented, such as the **Riddle** format, the **Ki-Shō-Ten-Ketsu** structure, and a key religious narrative illustrating the **Call and Response Variation 2** structure.
+
+* ## 1. Old English Riddle (Riddle Structure with Quest Outcome)
+
+This example utilizes the core Riddle structure ($\text{r m } \rightleftharpoons \text{ m } r$) for the Story Spinner's perspective, focusing on the cognitive dissonance established by the object's attributes.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+This is Riddle K-D 30 from the Exeter Book, commonly answered as 'a cup' or 'chalice':
+
+**“I am … sun-struck, rapt with flame, Flush with glory, flirt with the wind— I am clutched by storm and touched by fire, Ripe for the road, blood-wood or blaze. My path through the hall is from hand to hand As friends raise me, proud men and women Clutch and kiss me, praise my power And bow before me. To many I bring A ripe bliss, a rich blossoming.”**
+
+** ### Structured Analysis: Story Spinner’s Story Line (Output)
+
+The Riddle structure involves the Story Spinner (the source of the riddle) presenting a cognitive dissonance for the Story Seeker (the audience) to resolve.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | `r` | Opening | [Implied] |
+| 2 | `m` | Substance alluded to but not stated | I am … |
+| 3 | `t` | Attributes listed, creating a cognitive dissonance | The attributes are listed (e.g., sun-struck, fire-touched, praised by people), creating the paradoxical confusion. |
+| 4 | `m` | Riddle solved by resolving the cognitive dissonance | The object is identified (e.g., a cup, wine, or chalice). |
+| 5 | `r` | Closing | [Implied] |
+
+
+* ## 2. Rai San’yō Poem (Ki-Shō-Ten-Ketsu Structure)
+
+The Ki-Shō-Ten-Ketsu structure is a culturally specific form (from Japan and China) that relies on a specific sequence: Introduction (Ki), Development (Shō), Twist (Ten), and Synthesis (Ketsu). This is a **Closed structure**.
+
+** ### Full Story Text (Input)
+
+A poem by the Japanese polymath, Rai San’yō, which follows the Ki-Shō-Ten-Ketsu structure:
+
+| Steps | Translation (trans. Conrad) |
+| :---: | :--- |
+| Introduction (Ki) | **Let me tell you about the two daughters of Itoya, who live in Osaka.** |
+| Development (Shō) | **The elder one’s sixteen; the younger one’s fifteen.** |
+| Twist (Ten) | **Generals, throughout history, have killed their enemies with bows and arrows.** |
+| Synthesis (Ketsu) | **The two daughters of Itoya kill their suitors with their eyes.** |
+
+** ### Structured Analysis (Output)
+
+The Ki-Shō-Ten-Ketsu structure is scribed as: $\text{r m } \rightharpoons \leftleftharpoons \text{ m } r$.
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | `r` | Opening | [Implied] |
+| 2 | `m` | Introduction ($\text{ki}$): ‘to rise/start’ | Introduction of the two daughters of Itoya. |
+| 3 | `>` | Development ($\text{shō}$): ‘to continue’ | Detailing the ages of the two daughters. |
+| 4 | `t` | Twist ($\text{ten}$): ‘to turn/change’ | Introduction of a strong contrast (Generals killing with weapons). |
+| 5 | `m` | Synthesis ($\text{ketsu}$): ‘to unite/join’ | Resolution of the contrast (Daughters kill suitors with eyes). |
+| 6 | `r` | Closing | [Implied] |
+
+* ## 3. The Annunciation to Mary (Call and Response Variation 2)
+
+This example uses a Biblical narrative, which the sources analyze as a key illustration of the **Call and Response Variation 2 structure**. This structure is defined by starting with a Revelation (or Quest) sequence and ending with a Transformation sequence.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The focus is on the story line leading up to and including Mary's response to the angel:
+
+Mary (Initial Situation) is troubled by the Angel Gabriel’s greeting. She questions how this extraordinary event could happen (Problem/Rumour/Doubt). The Angel provides the explanation (Journey/Verification/Confirmation). This causes her doubt to be cancelled (Assertion/Denial). The resolution is reached as the event unfolds, leading to the Nativity (Transformation/Excess).
+
+** ### Structured Analysis: Mary’s Story Line (Output)
+
+The Call and Response Variation 2 structure has a complex, dualistic composition, linking Revelation and Transformation structures.
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | `r` | Opening | [Implied] |
+| 2 | `m` | Initial situation | Mary. |
+| 3 | `<` | Quest structure Problem / Revelation structure Rumour/doubt ($\text{veni}$ step) | She is troubled by the Angel's greeting, prompting doubt. |
+| 4 | `>` | Journey | She asks how the event is possible. |
+| 5 | `<` | Meeting with … / Verification: Confirmation/refutation ($\text{vidi}$ step) | The Angel provides an explanation. |
+| 6 | `>` | … friend/helper | The explanation is accepted (Confirmation). |
+| 7 | `<` | Meeting with … / Assertion/denial ($\text{vici}$ step) | Mary agrees, cancelling her doubt. |
+| 8 | `>` | … enemy/hindrance | The Resolution step. |
+| 9 | `<` | State of lack / Transformation structure (with resolution not achieved) | The event is set in motion (The lack of the child is now being addressed). |
+| 10 | `>` | State of excess | The continuing unfolding of the events (e.g., the Nativity), leading to an excessive state of good. |
+| 11 | `m` | Final situation (outcome/resolution) | [Implied Resolution]. |
+| 12 | `r` | Closing | [Implied]. |
+
+That is a considerable goal, and I can certainly provide you with ten further, non-overlapping examples. This will bring your total to 30 structured input-output pairs, covering the major Linear and Dynamic story structures discussed in the sources, particularly focusing on the initial chapters.
+
+The notation uses the symbols for recursion ($\text{r}$), indication ($\text{m}$), backward barb ($\leftleftarrows$), forward barb ($\rightharpoons$), double barb ($\rightleftharpoons$), and the unmarked state ($\text{u}$).
+
+
+* ## 2. The Wife's Capture in *Go I Know Not Whither* (Call and Response Variation 1)
+
+This sequence is the first section of the Bird-Wife's story line in the complex Russian tale *Go I Know Not Whither and Fetch I Know Not What*. It uses the **Call and Response Variation 1 structure**, which begins with a transgression leading to a Transformation structure.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+**Fedot** catches a magical bird (the future wife) who initially appears as a bird, but reveals herself to be a beautiful maiden who has been wounded. She accepts Fedot as her husband, and they marry. The King, driven by his own excesses, develops a passion for her. The core event here is the excessive act of capture and the wife's ensuing acceptance of her new fate.
+
+** ### Structured Analysis (Output)
+
+The Call and Response Variation 1 structure is shown by the analysis of this section condensing to a **Transformation structure** ($\text{r m } \leftleftarrows \rightharpoons \text{ m r}$), indicating a severe shift between the physical and metaphysical dimensions:
+
+| Steps | Symbols | Structure | Outline of Content (Wife's Story Line, Part 1) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | The magical bird is introduced (metaphysical state). |
+| 3 | $\leftleftarrows$ | State of lack / Transgression | Fedot captures the bird and wounds her (an excessive act of evil/transgression). |
+| 4 | $\rightharpoons$ | State of excess / Restoration | The bird-wife accepts Fedot and transforms into a maiden (Transformation resolution). |
+| 5 | $\text{m}$ | Final situation | She marries Fedot. |
+| 6 | $\text{r}$ | Closing | [Implied] |
+
+* ## 3. The Ghazal Poetic Form (Perpetual Motion Structure)
+
+The **Ghazal** form (a series of couplets with a specific rhyme scheme, traditionally about love, containing the poet's signature in the final couplet) is analyzed as following the **Perpetual Motion structure** due to its inherent, continuous cycle of anticipation and fulfilment.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+A ghazal typically consists of 5 to 25 couplets. The first couplet sets up a rhyme scheme (AA), and subsequent couplets use this rhyme in the second line (BA, CA, DA...). The repetition sets up an expectation ($\leftleftarrows$) that is fulfilled by the next rhyming line ($\rightharpoons$), which immediately sets up a new expectation, creating an unending flow until the poet's name appears, signalling the end.
+
+** ### Structured Analysis (Output)
+
+The Perpetual Motion structure is an ongoing cycle that does not reach a final resolution point, continuing indefinitely ($\dots$).
+
+$$\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightharpoons \dots$$
+
+| Steps | Symbols | Structure | Outline of Content (Form's Story Line) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Character(s) emerge(s) | The poetic form (the Ghazal) is introduced. |
+| 3 | $\leftleftarrows$ | Problem | The first line (A) sets up an expectation (for the rhyme). |
+| 4 | $\rightharpoons$ | Journey | The second line (A) fulfills the expectation. |
+| 5 | $\leftleftarrows$ | Problem | The third line (B) sets up a new expectation (for the following rhyme). |
+| 6 | $\rightharpoons$ | Journey | The fourth line (A) fulfills the expectation. |
+| $\dots$ | $\dots$ | Unfolding proceeds | The cycle of expectation and fulfillment continues. |
+
+* ## 4. The Koan Structure (The Sound of One Hand Clapping)
+
+The **Koan** structure is culturally specific and relies on setting up a paradox that cannot be solved rationally, forcing the seeker into a state of **no-thought** ($\text{u}$).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The Koan is presented by a master (story spinner) to a disciple (story seeker):
+
+"You know the sound of two hands clapping. **What is the sound of one hand clapping?**".
+
+The question is absurd and unanswerable, designed to shatter the seeker's reliance on logic and reason, leading to a flash of insight or realisation.
+
+** ### Structured Analysis (Output)
+
+The Koan structure is highly compressed and dynamic, using the 'unmarked state' ($\text{u}$) to denote the enlightened state of 'no-thought' or resolution of the paradox:
+
+$$\text{r m } \rightleftharpoons \text{ u r}$$
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Paradoxical opening | [Implied] |
+| 2 | $\text{m}$ | Koan presented | The known situation is stated (two hands clapping). |
+| 3 | $\rightleftharpoons$ | Paradox which sets up a cognitive dissonance | The unanswerable question is posed (one hand clapping). |
+| 4 | $\text{u}$ | Resolution of paradox leading to enlightenment | The cognitive dissonance is resolved through insight/enlightenment (unmarked state). |
+| 5 | $\text{r}$ | Paradoxical closing | [Implied] |
+
+* ## 5. The Riddle Structure (General Form)
+
+The **Riddle structure** is another open-ended form that the methodology uses to analyze a story. Its core function is to establish a **cognitive dissonance** using attributes that create confusion regarding the substance of the item described.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+A riddle is posed by the Story Spinner. It typically starts with a general term, followed by a list of seemingly contradictory or confusing attributes related to the object or concept. The Story Seeker's role is to resolve this contradiction using rational enquiry and memory (a nested Quest), ultimately achieving the answer.
+
+** ### Structured Analysis (Output)
+
+The general form of the Riddle structure, highlighting the cognitive dissonance inherent in the description of the item, is:
+
+$$\text{r m } \rightleftharpoons \text{ m r}$$
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Substance alluded to but not stated | The general term/object is introduced. |
+| 3 | $\rightleftharpoons$ | Attributes listed, creating a cognitive dissonance | The attributes are listed, creating paradoxical confusion. |
+| 4 | $\text{m}$ | Riddle solved by resolving the cognitive dissonance | The object is identified (Final situation). |
+| 5 | $\text{r}$ | Closing | [Implied] |
+
+
+* ## 6. *Beowulf*: Heorot and Grendel's Emergence (Call and Response Variation 1)
+
+This analysis follows the sequence where the excessive joy in King Hrothgar's hall, Heorot, causes the monster Grendel to appear. This is a classic **Call and Response Variation 1 structure** based on an initial Transformation.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+King **Hrothgar** builds a magnificent hall, **Heorot**, 'which the sons of men should hear of forever'. The hall becomes a site of excessive feasting and merrymaking (a state of excessive good). This **transgression against the natural order** (the extreme quality of the joy) summons the demon **Grendel** out of his lair, bringing an 'excess of evil' to restore the balance.
+
+** ### Structured Analysis (Output)
+
+This uses the initial steps of the complex *Beowulf* analysis, showing the initial transgression and the counter-response:
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | Listen! (Hwæt) |
+| 2 | $\text{m}$ | Initial situation | King Hrothgar and the lineage of kings introduced. |
+| 3 | $\leftleftarrows$ | Transgression against the natural order | Hrothgar wishes to build a hall of extreme renown. |
+| 4 | $\rightharpoons$ | An (excessive) attempt to restore the natural order is made | The hall (Heorot) is built and becomes a site of feasting and merrymaking (excess of good). |
+| 5 | $\leftleftarrows$ | Quest structure Problem / Revelation structure Rumour/doubt ($\text{veni}$ step) | Grendel is summoned by the noise/excess. |
+| 6 | $\rightharpoons$ | Journey | Grendel goes toward the hall. |
+| 7 | $\leftleftarrows$ | Meeting with … / Verification: confirmation/refutation ($\text{vidi}$ step) | Grendel sees the hall with his own eyes (suspicions confirmed). |
+| 8 | $\rightharpoons$ | … friend/helper | Grendel leaves with spoils/conquers the hall (vici step). |
+
+* ## 7. Grendel’s Initial Attack (Revelation Structure)
+
+Grendel's encounter with Heorot is a perfect illustration of the **Revelation structure** ($\text{r m u r}$). The Revelation structure traces a character's change in perception regarding their environment, rather than a physical problem.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+Grendel, sensing an excessive state of good (the revelry at Heorot), approaches the hall. The sequence follows $\text{veni}$ (He heard the rumour of merriment), $\text{vidi}$ (He visited the mead hall at night, saw it with his own eyes, confirming his suspicion), and $\text{vici}$ (He made his attack and emerged with his spoils/conquered).
+
+** ### Structured Analysis (Output)
+
+The Revelation structure uses the unmarked state ($\text{u}$) to show the decisive outcome ($\text{vici}$ step), which resolves the initial doubt.
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Doubt ($\text{veni}$ step) | Grendel senses the revelry (rumour/doubt). |
+| 2 | $\text{m}$ | Verification: confirmation/refutation ($\text{vidi}$ step) | Grendel sees the hall (verification). |
+| 3 | $\text{u}$ | Assertion/denial ($\text{vici}$ step) | Grendel conquers (the static outcome). |
+
+* ## 9. *Huainanzi* Linchpin Analogy (Ki-Shō-Ten-Ketsu Structure)
+
+This is the second example of a closed **Ki-Shō-Ten-Ketsu structure** from the sources, using abstract concepts rather than characters, proving the structure's applicability beyond traditional narrative.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The passage contrasts outer refinement with inner substance: "To dress in brocades and embroidery and ascend the ancestral temple is to value [outer] refinement. To hold gui and zhang tablets in front of yourself is to esteem [inner] substance." (Ki). "If your [outer] refinement does not overwhelm your [inner] substance, you may be called a Superior Man." (Shō). The **Twist** is presented as an analogy: "Therefore, it takes a year to build a chariot, but if it lacks a three-inch long linchpin, you cannot gallop off in it".
+
+** ### Structured Analysis (Output)
+
+The structure remains the same compressed, closed form:
+
+$$\text{r m } \rightharpoons \rightleftharpoons \text{ m r}$$
+
+| Steps | Symbols | Structure | Outline of content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | [Opening] | [Implied] |
+| 2 | $\text{m}$ | Introduction ($\text{ki}$) | Valuing outer refinement vs. inner substance. |
+| 3 | $\rightharpoons$ | Development ($\text{shō}$) | Outer refinement must not overwhelm inner substance. |
+| 4 | $\rightleftharpoons$ | Twist ($\text{ten}$) | Analogy of the chariot linchpin (external function versus internal requirement). |
+| 5 | $\text{m}$ | Synthesis ($\text{ketsu}$) | The Superior Man acts, thinking about the results. |
+| 6 | $\text{r}$ | [Closing] | [Implied] |
+
+
+I can certainly assist you with those additional extracts, particularly focusing on culturally specific structures near the Riddle section and the "East African" example you recalled.
+
+The sources identify the Dilemma tales and Ki-Shō-Ten-Ketsu stories as being "culturally specific structures" that often link to the Riddle form. I have also isolated the Malawian story (East Africa) that exemplifies the unique Perpetual Motion structure.
+
+Here are three distinct input-output pairs to expand your database further:
+
+
+* ## 2. African Dyola Story (Dilemma Structure)
+
+The **Dilemma structure** is characteristic of West African culture. It is an **Open-Ended structure** designed to encourage group discussion and consensus on moral standards by leaving the crucial decision to the audience (the Story Seekers).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+This narrative is based on an African Dyola story:
+
+Two hunters in the forest suddenly become thirsty (Initial Situation/Problem). One hunter declared, “I’ll dig a well. You find a bucket” (Journey). In the same instant, he broke open the ground with a mighty kick, and pure fresh water gushed forth. Immediately, the second hunter produced a bucket. They quenched their thirst (Crossroads/Paradox).
+
+The Story Spinner then presents the **dilemma** to the audience: **“Which man was the most worthy?”**. The story ends here for the original characters, transferring the Quest for resolution to the Story Seekers.
+
+** ### Structured Analysis (Output)
+
+The Dilemma structure requires 10 steps in its minimal form. The double barb ($\rightleftharpoons$) marks the moment the dilemma is posed, requiring the Story Seeker to resolve the cognitive dissonance.
+
+The minimal structural form is: $\text{r m } \leftleftarrows \rightharpoons \leftleftarrows \rightleftharpoons \leftleftarrows \rightharpoons \leftleftarrows \rightleftharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Two hunters in the forest. |
+| 3 | $\leftleftarrows$ | Problem | They suddenly become thirsty. |
+| 4 | $\rightharpoons$ | Journey | They decide to seek water and the means to carry it. |
+| 5 | $\leftleftarrows$ | Crossroads/paradox | Water gushes forth instantly, and the bucket appears instantly. |
+| 6 | $\rightleftharpoons$ | Dilemma posed | **Which man was the most worthy?** (This becomes the Story Seekers' problem). |
+| 7 | $\leftleftarrows$ | Story Seekers' Problem | The audience/seekers try to find a solution (Quest initiated). |
+| 8 | $\rightharpoons$ | Seekers' Journey/Resolution | Discussion and collective reasoning are used. |
+| 9 | $\leftleftarrows$ | Resolution Presented | Seekers present their answer to the spinner. |
+| 10 | $\rightleftharpoons$ | Eventual resolution | Consensus is reached, linking to the social order. |
+| 11 | $\text{m}$ | Final situation | A new state of balance in the social order. |
+| 12 | $\text{r}$ | Closing | [Implied]. |
+
+
+* ## 4. Riddle K-D 13 (Riddle with Trickster Ending)
+
+This Old English riddle is distinct because its resolution path (Story Seeker's path) follows a **Trickster structure**, rather than the Quest structure seen in other Riddle examples.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The Riddle is posed by the Story Spinner (Answer: Ten chickens):
+
+**“I saw six creatures scratch the ground, Their four lively sisters strutting round;”**
+
+The seeker is presented with the problem ($\rightleftharpoons$) and goes on an internal journey ($\rightharpoons$). If the riddle leads to a Trickster ending, the seeker's answer is *wrong* but plausible, leading to a defeated expectation or trickery.
+
+** ### Structured Analysis (Output)
+
+The Riddle structure is overlaid by the Story Seeker's response structure. When the Story Seeker's journey follows a Trickster structure, the structure involves two Trickster steps ($\rightleftharpoons$) followed by a Trickster ending.
+
+| Steps | Story Spinner (symbols) | Story Seeker (symbols) | Structure | Outline of Content |
+| :---: | :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | $\text{m}$ | Substance alluded to but not stated | "I saw six creatures scratch the ground..." |
+| 3 | $\rightleftharpoons$ | $\rightleftharpoons$ | Attributes listed, creating cognitive dissonance | The attributes are presented. |
+| 4 | $\leftleftarrows$ | $\leftleftarrows$ | Seeker, presented with problem | Problem accepted. |
+| 5 | $\rightharpoons$ | $\rightharpoons$ | … goes on an internal journey | Reasoning and memory engaged. |
+| 6 | $\leftleftarrows$ | $\leftleftarrows$ | … and meets | [Implied internal meeting]. |
+| 7 | $\rightleftharpoons$ | $\rightleftharpoons$ | … a Trickster step | A possible answer arises (often wrong, but plausible/funny). |
+| 8 | $\leftleftarrows$ | $\leftleftarrows$ | … then approaches the story spinner | Presenting the answer. |
+| 9 | $\rightleftharpoons$ | $\rightharpoons$ | … to get their answer confirmed or refuted | Spinner refutes the answer (Trickster ending). |
+| 10 | $\text{m}$ | $\text{m}$ | Final situation | The correct answer is given. |
+| 11 | $\text{r}$ | $\text{r}$ | Closing | [Implied] |
+
+* ## 5. Orpheus and Eurydice (Quest Structure)
+
+Orpheus's journey to retrieve Eurydice from the underworld is a clear example of the **Quest structure**, despite being nested within the larger Transformation framework of Ovid's *Metamorphoses*. The central issue is a problem (death) that Orpheus tries to solve using his own power (music and rhetoric).
+
+** ### Full Story Text / Narrative Outline (Input)
+
+After Eurydice dies from a snake bite, **Orpheus** travels to the underworld (Journey/Quest) and uses the power of his music to charm Hades and Persephone (Friend/Helper) into releasing her, on the condition that he does not look back until they reach the surface. He successfully charms them ($\rightharpoons$). However, just as they reach the surface, he looks back (Enemy/Hindrance—his own doubt/emotion), and she is lost forever, resulting in a tragic failure.
+
+** ### Structured Analysis (Output)
+
+Orpheus's story line follows the 10-step Quest structure.
+
+| Steps | Symbols | Structure | Outline of Content |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Initial situation | Orpheus, devoted to Eurydice. |
+| 3 | $\leftleftarrows$ | Problem | Eurydice dies and is taken to the Underworld. |
+| 4 | $\rightharpoons$ | Journey | Orpheus resolves to travel to the Underworld. |
+| 5 | $\leftleftarrows$ | Meeting with … | He meets Hades and Persephone. |
+| 6 | $\rightharpoons$ | … friend/helper | His music charms them into releasing Eurydice. |
+| 7 | $\leftleftarrows$ | Meeting with … | He is given the condition (not to look back/self-hindrance). |
+| 8 | $\rightharpoons$ | … enemy/hindrance | Orpheus fails the test by looking back, losing her forever. |
+| 9 | $\text{m}$ | Final situation | Orpheus returns, defeated; the problem is tragically unresolved. |
+| 10 | $\text{r}$ | Closing | [Implied] |
+
+*  ## 6. Limerick Poetic Form (Salman Rushdie's Kim Kardashian)
+
+This analysis extracts the structure of the **Limerick form itself**, which operates as a **Revelation structure** and is distinct from analyzing the content of the poem. The form is based on setting up and resolving metric and rhyme expectations.
+
+** ### Full Story Text / Narrative Outline (Input)
+
+The analysis focuses on the metrical form (AABBA rhyme scheme, implied rhythmic patterns):
+
+"The marriage of poor Kim Kardashian (A) / Was krushed like a kar in a krashian. (A) / Her Kris kried, 'Not fair! (B) / Why kan't I keep my share?' (B) / But Kardashian fell klean outa fashian. (A)".
+
+The first line sets up anticipation ($\leftleftarrows$). The second line fulfills the expectation ($\rightharpoons$). Lines 3 and 4 present a **defeated expectation** in rhythm/rhyme. The final line resolves the form, completing the $\text{Revelation structure}$.
+
+** ### Structured Analysis (Output)
+
+The Limerick form follows the **Revelation structure**, a Threshold structure.
+
+| Steps | Symbols | Structure | Outline of Content (Based on Poetic Form) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening (Doubt/Veni) | Anticipation set up by metre/rhythm/rhyme. |
+| 2 | $\text{m}$ | Initial situation | The Limerick form is introduced (Character/Form). |
+| 3 | $\leftleftarrows$ | Problem | Line 1 sets anticipation. |
+| 4 | $\rightharpoons$ | Journey | Line 2 fulfills the expectation. |
+| 5 | $\leftleftarrows$ | Meeting with … | Lines 3/4 set up defeated expectation (Twist). |
+| 6 | $\rightharpoons$ | … friend/helper | Line 5 resolves the form, completing the pattern. |
+| 7 | $\text{m}$ | Final situation | The poetic form comes to a close. |
+| 8 | $\text{r}$ | Closing | [Implied] |
+
+***
+
+* ## 7. The Haiku Poetic Form (Buson’s Crows)
+
+The Haiku is typically analyzed as following the **Open-Ended Ki-Shō-Ten-Ketsu structure**, which closely aligns with the Chinese Circular Structure's elemental cycle.
+
+** ### Full Story Text (Input)
+
+This Haiku by Buson is used to analyze the pattern of expectation and reconciliation required by the form:
+
+"They end their flight one by one— / crows at dusk. / Buson".
+
+The form uses two related images—the flight of crows and the dusk—to create a sense of opposition, which the reader must reconcile, often leading to a confirmation of something intuitively known (an 'Ahhh!' effect).
+
+** ### Structured Analysis (Output)
+
+The structure is a highly compressed, dynamic form: $\text{r m } \rightharpoons \rightleftharpoons \text{ m r}$.
+
+| Steps | Symbols | Structure | Outline of Content (Based on Poetic Form) |
+| :---: | :---: | :--- | :--- |
+| 1 | $\text{r}$ | Opening | [Implied] |
+| 2 | $\text{m}$ | Introduction ($\text{ki}$) | Introduction of the initial image/topic (Crows starting flight). |
+| 3 | $\rightharpoons$ | Development ($\text{shō}$) | Continuation/development of the image. |
+| 4 | $\rightleftharpoons$ | Twist ($\text{ten}$) | Introduction of contrast (the crows are ending their flight at dusk, setting up dissonance). |
+| 5 | $\text{m}$ | Synthesis ($\text{ketsu}$) | Reconciliation of the contrast achieved by the reader (resolution of the dissonance). |
+| 6 | $\text{r}$ | Closing | New state of oscillation. |
+🥺
