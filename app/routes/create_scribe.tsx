@@ -17,14 +17,15 @@ export async function action({ params, request }: Route.ActionArgs) {
 //   return { scribe, params };
 // }
 
-export default function NewScribe({ loaderData }: Route.ComponentArgs) {
+export default function CreateScribe() {
   return (
-    <p id="scribe-index-page">
-      <p>Here, place your story details here!</p>
-      This is a demo for React Router.
-      <br />
-      Check out{" "}
-      <a href="https://reactrouter.com">the docs at reactrouter.com</a>.
-    </p>
+    <>
+      <h1>Hello we are making a new Scribe Project</h1>
+      <p id="scribe-index-page">
+        Here, place your story details here! This is a demo for React Router.
+        Check out{" "}
+        <a href="https://reactrouter.com">the docs at reactrouter.com</a>.
+      </p>
+    </>
   );
 }

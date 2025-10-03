@@ -156,6 +156,8 @@ Once we have that down I want for users to be able to *play with* the expansion 
 
 ** Day 5
 :LOGBOOK:
+CLOCK: [2025-10-03 Fri 14:15]--[2025-10-03 Fri 15:04] =>  0:49
+CLOCK: [2025-10-03 Fri 13:20]--[2025-10-03 Fri 14:05] =>  0:45
 CLOCK: [2025-10-03 Fri 12:03]--[2025-10-03 Fri 12:28] =>  0:25
 CLOCK: [2025-10-03 Fri 10:45]--[2025-10-03 Fri 11:55] =>  1:10
 CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
@@ -170,6 +172,7 @@ CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
 - pom 3 :: set up routes; fix some redirect.
 - 12:30 - 1:20 :: lunch
 - pom 4 ::  Start on sidebar navigation, display input form.
+- pom 5 :: attempt to display data and display custom font;
 
 *** DONE Finalize Routes
 
