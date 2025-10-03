@@ -100,6 +100,7 @@ waleriepass
 
 ** Day 4
 :LOGBOOK:
+CLOCK: [2025-10-02 Thu 22:40]--[2025-10-03 Fri 00:16] =>  1:36
 CLOCK: [2025-10-02 Thu 20:12]--[2025-10-02 Thu 22:32] =>  2:20
 CLOCK: [2025-10-02 Thu 17:35]--[2025-10-02 Thu 18:35] =>  1:00
 CLOCK: [2025-10-02 Thu 15:58]--[2025-10-02 Thu 16:23] =>  0:25
@@ -118,6 +119,7 @@ CLOCK: [2025-10-02 Thu 12:40]--[2025-10-02 Thu 13:50] =>  1:10
 - 6:30 - 7 :: laze around
 - 7 - 8 :: Manual data preparation
 - pom 8-11 8:10 - 10:30 :: Clean and prepare 30 examples!!
+- pom 12-14 :: Finalize data cleaning, sketch out remaining tasks 😫
 
 *** With 5 few-shot in-prompt examples
 I am very much unsatisfied with the creative writing quality of this system. There are a number of approaches I think will help.
@@ -125,6 +127,31 @@ I am very much unsatisfied with the creative writing quality of this system. The
 - Preparation of more data samples
 - Incorporation of roleplay prompts
 
+*** Remaining Work
+
+So what we have right now is 34 examples which can serve as exemplar or evals or a few-shot pool, and then we also have right now an idea of a workflow.
+Workflows B and C may need to sit aside for another week since I must finish my UI for tomorrow which I haven't really gotten started on. I know I will most likely need to display the story beats on a Table.
+**** Overall Workflow
+The product idea that I have at the moment is to take the user's
+- character information, which could also be about a product, for example. This serves also as starting point, potentially.
+- the central imbalance
+- the user's selection of story structure, possibly. I think it's best for users to choose for educational purposes.
+
+And eventually make a video script. I could market it as story generation for startup launch videos.
+
+**** Workflow A
+The product idea that I have at the moment is to take the user's
+- character information, which could also be about a product, for example. This serves also as starting point, potentially.
+- the central imbalance
+- the user's selection of story structure, possibly. I think it's best for users to choose for educational purposes.
+Output:
+- provide a "bare bones" list of story beats that conform to the user details and story framework.
+
+
+**** Workflow B
+Once we have that down I want for users to be able to *play with* the expansion and contraction of stories for Workflow B. But that is a separate step, which will require an entirely different signature, optimization run, and also additional data augmentation of our exemplars.
+
+**** Then Workflow C, I want to take that snapshot of story state/structure and turn it into a video script.
 
 
 * Welcome to React Router!
