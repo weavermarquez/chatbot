@@ -2,12 +2,11 @@
 I'm interested in applying GEPA to create an optimized prompt for generating stories in accordance to the theory of a story structure framework. I have collected 32 examples of full story texts, their categorizations, and the result of the analysis of the story structure turned into a list of story-beats. The general goal is in accordance to this signature: ``` const storyGenerator = ax(` characterName:string "The main character", characterDescription:string "A description of the character at the start of the story.", centralImbalance:string "The problem around which the story revolves." -> storyStructure:class "Quest, Transformation, Trickster, Trickster Variation, Death and Rebirth" // up to 18 story structures... storyBeats:json[] "Story beats: the outlines are the events; annotated with appropriate symbol and structure." `); ``` I have with me a digital copy of the book that provides the theory behind these story structures. I would like to get help in setting up prompt opimization, the selection of the most appropriate opitmizer approach (I'm happy with defaulting to GEPA, though I'm not quite sure exactly what I'm optimizing for other than a) creating a good compelling story and b) adhering to the book's theory of story structures).
 
 
-|        |                                  |                                                           |
 | number | structure                        | title                                                     |
 |      1 | quest                            | three little pigs                                         |
 |      2 | quest                            | the gigantic turnip                                       |
 |      3 | quest                            | nasr-el-din hodja and the walnut tree                     |
-|      4 | quest                            | cornix in Metaphorphoses                                  |
+|      4 | quest, intersecting lines        | cornix in Metamorphoses                                   |
 |      5 | transformation                   | cornix in Metamorphoses                                   |
 |      6 | trickster                        | The washerman and his ass                                 |
 |      7 | trickster variation              | hsun chu-po visits his friend                             |
@@ -15,8 +14,8 @@ I'm interested in applying GEPA to create an optimized prompt for generating sto
 |      9 | trickster                        | the woman who humoured her lover at her husband's expense |
 |     10 | trickster                        | three little pigs (wolf's perspective)                    |
 |     11 | death and rebirth                | sleeping beauty                                           |
-|     12 | rags to riches                   | cinderella                                                |
-|     13 | transformation                   | the story of medusa                                       |
+|     12 | transformation                   | the story of medusa                                       |
+|     13 | rags to riches                   | cinderella                                                |
 |     14 | death and rebirth                | snow white                                                |
 |     15 | quest                            | the five paragraph academic essay                         |
 |     16 | transformation                   | the story of narcissus                                    |
@@ -36,3 +35,9 @@ I'm interested in applying GEPA to create an optimized prompt for generating sto
 |     30 | revelation                       | grendel's initial attack                                  |
 |     31 | ki-sho-ten-ketsu                 | huainanzi linchpin analogy                                |
 |     32 | riddle                           | African Dyola Story                                       |
+|     33 | trickster                        | when goha lost his donkey                                 |
+|     34 | call and response 2              | the annunciation to mary                                  |
+|     35 | riddle w trickster ending        | riddle k-d 13                                             |
+|     36 | quest                            | orpheus and eurydice                                      |
+|     37 | revelation                       | limerick of kim kardashian  by sam rushdie                |
+|     38 | open ended ki-sho-ten-ketsu      | haiku, busons crows                                       |
