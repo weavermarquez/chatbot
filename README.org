@@ -154,6 +154,26 @@ Once we have that down I want for users to be able to *play with* the expansion 
 **** Then Workflow C, I want to take that snapshot of story state/structure and turn it into a video script.
 
 
+** Day 5
+:LOGBOOK:
+CLOCK: [2025-10-03 Fri 10:00]--[2025-10-03 Fri 10:27] =>  0:27
+:END:
+
+*** Timetracking
+- 9:30 :: arrive late >_>
+- 9:30 - 10:00 :: get oriented, have a look thru https://deepwiki.com/remix-run/react-router/
+- pom 1 :: set up repo, plan out today's work
+
+*** PR: Display Table Component
+
+*** PR: Sidebar Navigation?
+
+*** PR: Interactivity with Sidebar
+
+*** PR: Separate Test/Train Dataset
+
+*** PR: Prepare Optimizer Example
+
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.
 
