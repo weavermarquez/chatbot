@@ -11,6 +11,7 @@ import {
 import { useState, useEffect } from "react";
 import { auth } from "~/lib/auth";
 import type { Route } from "./+types/header";
+import "~/laws-of-form.css";
 
 import {
   Sheet,
@@ -48,23 +49,57 @@ export default function HeaderLayout({ loaderData }: Route.ComponentProps) {
 
   return (
     <>
-      <div id="header">
-        <h1>
-          <h2>HEADER</h2>
-        </h1>
-        <Sheet>
-          <SheetTrigger>Open</SheetTrigger>
-          <SheetContent>
-            <SheetHeader>
-              <SheetTitle>Are you absolutely sure?</SheetTitle>
-              <SheetDescription>
-                This action cannot be undone. This will permanently delete your
-                account and remove your data from our servers.
-              </SheetDescription>
-            </SheetHeader>
-          </SheetContent>
-        </Sheet>
-      </div>
+      <Sheet>
+        <div className="flex">
+          <SheetTrigger
+            className="inline-flex
+            items-center
+            justify-center
+            border-transparent bg-indigo-500
+            px-5 py-3
+            text-base
+            font-medium
+            text-white
+            hover:bg-indigo-700
+            shadow-lg
+            border
+            rounded-md"
+          >
+            OpenButton
+          </SheetTrigger>
+          <a
+            href="/"
+            className="inline-flex
+            items-center
+            justify-center
+            border-transparent
+            bg-white
+            px-5 py-3
+            text-base
+            font-medium
+            text-indigo-500
+            hover:bg-indigo-50
+            shadow-lg
+            border
+            rounded-md"
+          >
+            Log Out
+          </a>
+          <h2 className="laws-of-form">m M a A u U b B r R c C ⇀ ↽ ⇌</h2>
+        </div>
+
+        <SheetContent side="left" className="w-[400px] sm:w-[540px]">
+          <SheetHeader>
+            <SheetTitle>Are you absolutely sure?</SheetTitle>
+            <SheetDescription>
+              This action cannot be undone. This will permanently delete your
+              account and remove your data from our servers.
+            </SheetDescription>
+          </SheetHeader>
+        </SheetContent>
+      </Sheet>
+      <br />
+      <Outlet />
     </>
   );
 }

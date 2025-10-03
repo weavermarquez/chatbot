@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Laws-of-Form";
+    src:
+        local("Laws-of-Form"),
+        url("./fonts/laws-of-form.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.laws-of-form {
+    font-family: "Laws-of-Form", sans-serif !important;
+}
