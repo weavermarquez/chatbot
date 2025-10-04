@@ -1554,7 +1554,7 @@
         "idx": 7,
         "symbol": "⇀",
         "label": "unfolding proceeds",
-        "summary": "[And continues to unfold in perpetuo $\\dots$]."
+        "summary": "[And continues to unfold in perpetuo ...]."
       }
     ],
     "notes": null
@@ -1633,25 +1633,25 @@
       {
         "idx": 2,
         "symbol": "m",
-        "label": "introduction ($\\text{ki}$): ‘to rise/start’",
+        "label": "introduction (ki): ‘to rise/start’",
         "summary": "Introduction of the two daughters of Itoya."
       },
       {
         "idx": 3,
         "symbol": "⇀",
-        "label": "development ($\\text{shō}$): ‘to continue’",
+        "label": "development (shō): ‘to continue’",
         "summary": "Detailing the ages of the two daughters."
       },
       {
         "idx": 4,
         "symbol": "t",
-        "label": "twist ($\\text{ten}$): ‘to turn/change’",
+        "label": "twist (ten): ‘to turn/change’",
         "summary": "Introduction of a strong contrast (Generals killing with weapons)."
       },
       {
         "idx": 5,
         "symbol": "m",
-        "label": "synthesis ($\\text{ketsu}$): ‘to unite/join’",
+        "label": "synthesis (ketsu): ‘to unite/join’",
         "summary": "Resolution of the contrast (Daughters kill suitors with eyes)."
       },
       {
@@ -1691,7 +1691,7 @@
       {
         "idx": 3,
         "symbol": "↽",
-        "label": "quest structure problem / revelation structure rumour/doubt ($\\text{veni}$ step)",
+        "label": "quest structure problem / revelation structure rumour/doubt (veni step)",
         "summary": "She is troubled by the Angel's greeting, prompting doubt."
       },
       {
@@ -1703,7 +1703,7 @@
       {
         "idx": 5,
         "symbol": "↽",
-        "label": "meeting with … / verification: confirmation/refutation ($\\text{vidi}$ step)",
+        "label": "meeting with … / verification: confirmation/refutation (vidi step)",
         "summary": "The Angel provides an explanation."
       },
       {
@@ -1715,7 +1715,7 @@
       {
         "idx": 7,
         "symbol": "↽",
-        "label": "meeting with … / assertion/denial ($\\text{vici}$ step)",
+        "label": "meeting with … / assertion/denial (vici step)",
         "summary": "Mary agrees, cancelling her doubt."
       },
       {
@@ -1947,7 +1947,7 @@
       {
         "idx": 5,
         "symbol": "↽",
-        "label": "quest structure problem / revelation structure rumour/doubt ($\\text{veni}$ step)",
+        "label": "quest structure problem / revelation structure rumour/doubt (veni step)",
         "summary": "Grendel is summoned by the noise/excess."
       },
       {
@@ -1959,7 +1959,7 @@
       {
         "idx": 7,
         "symbol": "↽",
-        "label": "meeting with … / verification: confirmation/refutation ($\\text{vidi}$ step)",
+        "label": "meeting with … / verification: confirmation/refutation (vidi step)",
         "summary": "Grendel sees the hall with his own eyes (suspicions confirmed)."
       },
       {
@@ -1987,19 +1987,19 @@
       {
         "idx": 1,
         "symbol": "r",
-        "label": "doubt ($\\text{veni}$ step)",
+        "label": "doubt (veni step)",
         "summary": "Grendel senses the revelry (rumour/doubt)."
       },
       {
         "idx": 2,
         "symbol": "m",
-        "label": "verification: confirmation/refutation ($\\text{vidi}$ step)",
+        "label": "verification: confirmation/refutation (vidi step)",
         "summary": "Grendel sees the hall (verification)."
       },
       {
         "idx": 3,
         "symbol": "u",
-        "label": "assertion/denial ($\\text{vici}$ step)",
+        "label": "assertion/denial (vici step)",
         "summary": "Grendel conquers (the static outcome)."
       }
     ],
@@ -2027,25 +2027,25 @@
       {
         "idx": 2,
         "symbol": "m",
-        "label": "introduction ($\\text{ki}$)",
+        "label": "introduction (ki)",
         "summary": "Valuing outer refinement vs. inner substance."
       },
       {
         "idx": 3,
         "symbol": "⇀",
-        "label": "development ($\\text{shō}$)",
+        "label": "development (shō)",
         "summary": "Outer refinement must not overwhelm inner substance."
       },
       {
         "idx": 4,
         "symbol": "⇌",
-        "label": "twist ($\\text{ten}$)",
+        "label": "twist (ten)",
         "summary": "Analogy of the chariot linchpin (external function versus internal requirement)."
       },
       {
         "idx": 5,
         "symbol": "m",
-        "label": "synthesis ($\\text{ketsu}$)",
+        "label": "synthesis (ketsu)",
         "summary": "The Superior Man acts, thinking about the results."
       },
       {
