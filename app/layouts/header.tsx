@@ -50,7 +50,7 @@ export default function HeaderLayout({ loaderData }: Route.ComponentProps) {
   return (
     <>
       <Sheet>
-        <div className="flex">
+        <div className="flex place-self-center place-items-center">
           <SheetTrigger
             className="inline-flex
             items-center
@@ -85,7 +85,6 @@ export default function HeaderLayout({ loaderData }: Route.ComponentProps) {
           >
             Log Out
           </a>
-          <h2 className="laws-of-form">m M a A u U b B r R c C ⇀ ↽ ⇌</h2>
         </div>
 
         <SheetContent side="left" className="w-[400px] sm:w-[540px]">

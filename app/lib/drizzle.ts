@@ -1,11 +1,14 @@
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
-import { user, session, account, verification } from "./auth-schema";
+import * as userSchema from "~/db/schema/schema";
+import * as authSchema from "~/db/schema/auth-schema";
 
 const connectionString = process.env.DATABASE_URL!;
 
 // Disable prefetch as it is not supported for "Transaction" pool mode
 export const client = postgres(connectionString, { prepare: false });
-export const db = drizzle(client);
+export const db = drizzle(client, {
+  schema: { ...userSchema, ...authSchema },
+});
 
 // const allUsers = await db.select().from(users);

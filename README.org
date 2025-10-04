@@ -206,6 +206,22 @@ And display an input form.
 
 *** PR: Prepare Optimizer Example
 
+** Day 6: Demo Day
+:LOGBOOK:
+CLOCK: [2025-10-04 Sat 10:40]--[2025-10-04 Sat 14:10] =>  3:30
+CLOCK: [2025-10-04 Sat 10:15]--[2025-10-04 Sat 10:40] =>  0:25
+:END:
+  - [X] Firstly is actually hooking up the form and input button into the generator, and then hooking the generator's output into the table, and of course making sure that the routing works. I think that's totally feasible in a couple of hours, so I'm ready for the demo.
+  - Second task is to take all the data that I have and at least prepare enough of the optimizer workflow so that I can also present that at the demo, because I am so excited about this.
+
+*** Time Tracking
+- Get that shit done!! (got it fully working at 2:10 >_>)
+
+*** DONE PR Hook up the Input to the Generator
+*** DONE PR Hook up the Generator to the Sheet
+
+*** PR Run the Optimizer and use it
+
 * Welcome to React Router!
 A modern, production-ready template for building full-stack React applications using React Router.
 
